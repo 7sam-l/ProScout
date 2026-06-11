@@ -21,3 +21,8 @@ __pycache__/
 
 # Streamlit/IDE temp media
 .tempmediaStorage/
+
+# MD files
+.theme.md 
+.walkthrough.md 
+.implementation.md 

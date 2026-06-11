@@ -23,6 +23,5 @@ __pycache__/
 .tempmediaStorage/
 
 # MD files
-.theme.md 
-.walkthrough.md 
-.implementation.md 
+*.md
+!README.md

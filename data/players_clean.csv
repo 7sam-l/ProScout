@@ -1,0 +1,601 @@
+player_name,age,nationality,club,league,position,market_value,goals,assists,minutes_played,passing_accuracy,tackles,interceptions,dribbles,cluster_id,cluster_label
+Phil Dias,28,Brazil,Nice,Ligue 1,Midfielder,328.6,3.0,5.0,2569.0,82.7,45.7,56.4,25.1,1,Ball Winners
+Kylian Donnarumma,18,Italy,Girona,La Liga,Forward,73.0,5.0,2.0,1147.0,75.2,1.7,6.2,11.4,3,Creative Playmakers
+Dominik Donnarumma,20,England,Lazio,Serie A,Forward,282.0,14.0,9.0,3288.0,82.6,24.3,6.8,24.3,2,Clinical Finishers
+Jeremie Kane,32,Egypt,Aston Villa,English Premier League,Winger,124.8,6.0,6.0,1421.0,76.0,21.6,10.3,64.0,3,Creative Playmakers
+James Dias,25,Nigeria,Werder Bremen,Bundesliga,Winger,452.1,15.0,13.0,2743.0,79.9,28.8,23.7,99.3,0,Dynamic Wingers
+Alex Jota,24,Spain,Newcastle,English Premier League,Defender,333.9,1.0,1.0,1562.0,89.9,33.6,41.5,1.8,4,Defensive Anchors
+Teun Vlahović,33,Ireland,Brest,Ligue 1,Defender,66.0,3.0,5.0,2295.0,78.1,69.9,40.9,40.4,1,Ball Winners
+Bruno Dias,27,Cameroon,Brest,Ligue 1,Midfielder,150.7,3.0,3.0,1263.0,85.6,22.4,26.8,21.8,4,Defensive Anchors
+Ederson Osimhen,19,Germany,Rennes,Ligue 1,Forward,212.2,20.0,3.0,3093.0,75.4,24.7,6.7,24.3,2,Clinical Finishers
+Erling Martínez,30,Spain,Lazio,Serie A,Winger,35.2,8.0,7.0,1879.0,81.6,12.5,6.4,46.0,0,Dynamic Wingers
+Phil Oblak,34,Algeria,Freiburg,Bundesliga,Winger,57.8,7.0,4.0,2036.0,80.7,19.3,4.2,55.8,3,Creative Playmakers
+Kylian Grealish,29,Algeria,Freiburg,Bundesliga,Midfielder,24.7,1.0,2.0,522.0,89.7,32.55,5.7,6.7,4,Defensive Anchors
+Alejandro Salah,21,Denmark,Atletico Madrid,La Liga,Midfielder,74.9,1.0,1.0,546.0,83.1,16.4,7.3,7.8,4,Defensive Anchors
+Joshua Ødegaard,33,Algeria,Aston Villa,English Premier League,Defender,67.9,2.0,4.0,1280.0,82.0,42.8,19.7,16.9,4,Defensive Anchors
+Robert Valverde,18,Senegal,Leverkusen,Bundesliga,Defender,257.4,2.0,5.0,1843.0,80.4,63.6,52.4,24.5,1,Ball Winners
+Hakan ter Stegen,26,Belgium,Aston Villa,English Premier League,Forward,113.6,5.0,2.0,797.0,78.4,6.1,3.1,13.0,3,Creative Playmakers
+Pedri Kvaratskhelia,23,Portugal,Brest,Ligue 1,Winger,282.1,10.0,11.0,2199.0,79.5,22.8,11.5,55.4,0,Dynamic Wingers
+Hakan Donnarumma,34,Croatia,Leipzig,Bundesliga,Winger,24.8,13.0,14.0,2546.0,77.6,25.7,14.8,117.5,0,Dynamic Wingers
+Romelu Vlahović,20,Switzerland,Brighton,English Premier League,Midfielder,456.7,3.0,1.0,3013.0,83.9,120.9,73.0,20.3,1,Ball Winners
+Dušan Fernandes,28,Wales,Reims,Ligue 1,Midfielder,67.3,1.0,2.0,937.0,80.7,14.7,20.2,11.2,4,Defensive Anchors
+William Dias,19,France,Fiorentina,Serie A,Winger,141.4,6.0,5.0,974.0,83.5,6.2,1.9,27.4,3,Creative Playmakers
+Harry Grealish,29,Italy,Marseille,Ligue 1,Defender,24.1,0.0,0.0,1173.0,89.3,26.7,24.7,6.3,4,Defensive Anchors
+Thibaut Griezmann,22,Algeria,Marseille,Ligue 1,Midfielder,234.5,2.0,14.0,2331.0,88.0,17.8,13.0,34.4,0,Dynamic Wingers
+Marc-André Donnarumma,22,Wales,Marseille,Ligue 1,Midfielder,68.6,2.0,1.0,553.0,80.9,9.0,6.5,12.3,3,Creative Playmakers
+James Wirtz,21,Norway,Marseille,Ligue 1,Winger,400.2,18.0,15.0,2969.0,76.9,10.5,25.0,99.0,0,Dynamic Wingers
+Trent Valverde,33,Ireland,Real Madrid,La Liga,Defender,62.0,2.0,3.0,1295.0,80.5,37.8,25.7,22.5,4,Defensive Anchors
+Dušan Kane,27,Argentina,Bayern Munich,Bundesliga,Forward,305.6,22.0,4.0,2946.0,78.5,12.1,11.7,35.3,2,Clinical Finishers
+Alisson Leão,21,Morocco,Rennes,Ligue 1,Defender,216.8,1.0,1.0,2292.0,89.6,51.7,54.8,7.9,1,Ball Winners
+Rodri Szoboszlai,30,Ireland,Liverpool,English Premier League,Forward,37.3,20.0,4.0,2221.0,80.7,8.0,11.2,28.7,2,Clinical Finishers
+Bruno Osimhen,31,Sweden,Torino,Serie A,Midfielder,8.6,0.0,3.0,543.0,89.0,4.0,8.7,14.5,4,Defensive Anchors
+Alisson Wirtz,31,Algeria,Brest,Ligue 1,Midfielder,27.0,3.0,4.0,1132.0,85.5,32.3,28.9,24.8,4,Defensive Anchors
+Bruno Kudus,19,England,Nice,Ligue 1,Winger,326.7,12.0,14.0,2786.0,83.7,17.3,22.9,99.7,0,Dynamic Wingers
+Antoine ter Stegen,29,Wales,Torino,Serie A,Winger,30.7,2.0,1.0,438.0,78.5,4.5,3.1,17.7,3,Creative Playmakers
+Mohamed Oblak,34,Morocco,Chelsea,English Premier League,Forward,24.2,4.0,1.0,533.0,77.2,1.9,0.4,12.3,3,Creative Playmakers
+Antoine Lewandowski,35,Georgia,Man City,English Premier League,Winger,92.4,6.0,7.0,1566.0,80.4,22.5,3.1,43.1,3,Creative Playmakers
+Federico Osimhen,25,Algeria,Dortmund,Bundesliga,Winger,320.6,10.0,9.0,3145.0,78.0,20.5,15.5,65.6,0,Dynamic Wingers
+Rafael van Dijk,31,Egypt,Lens,Ligue 1,Winger,21.4,17.0,14.0,3330.0,78.6,49.1,26.4,70.6,0,Dynamic Wingers
+Diogo Modrić,32,Croatia,Roma,Serie A,Winger,2.7,2.0,2.0,462.0,80.3,1.9,0.9,10.9,3,Creative Playmakers
+Rasmus Bellingham,23,Egypt,Marseille,Ligue 1,Forward,248.8,25.0,4.0,3124.0,73.1,8.5,5.7,33.6,2,Clinical Finishers
+Romelu Koopmeiners,25,Netherlands,Valencia,La Liga,Winger,159.2,4.0,3.0,837.0,83.4,8.4,4.8,36.3,3,Creative Playmakers
+Dejan Páez,32,England,Monaco,Ligue 1,Midfielder,24.8,1.0,1.0,834.0,82.8,32.55,14.7,13.1,4,Defensive Anchors
+Leroy Kvaratskhelia,27,Denmark,Tottenham,English Premier League,Forward,455.8,22.0,8.0,3347.0,80.0,5.4,2.6,57.8,2,Clinical Finishers
+Granit Páez,33,Argentina,Hoffenheim,Bundesliga,Defender,10.3,2.0,1.0,2119.0,89.0,49.7,47.6,1.6,4,Defensive Anchors
+Marc-André González,23,Norway,Rennes,Ligue 1,Defender,282.8,2.0,7.0,2793.0,83.2,51.6,71.3,52.1,1,Ball Winners
+Thibaut Maddison,34,Algeria,Leverkusen,Bundesliga,Defender,17.3,0.0,0.0,1024.0,86.3,30.4,33.7,2.5,4,Defensive Anchors
+William Moraes,36,Netherlands,Lazio,Serie A,Winger,15.0,12.0,7.0,2810.0,78.9,27.7,9.6,76.4,0,Dynamic Wingers
+Darwin James,24,Wales,Sevilla,La Liga,Forward,405.6,19.0,6.0,2472.0,76.5,4.4,8.0,41.1,2,Clinical Finishers
+Joshua Müller,22,Portugal,Wolfsburg,Bundesliga,Defender,142.2,1.0,1.0,2161.0,88.5,53.5,43.8,2.9,4,Defensive Anchors
+Jan Oblak,26,Ireland,Juventus,Serie A,Midfielder,191.4,4.0,4.0,1463.0,87.6,25.4,33.8,40.2,4,Defensive Anchors
+Bernardo Oblak,19,Georgia,Napoli,Serie A,Winger,336.2,10.0,5.0,1858.0,84.6,22.3,5.8,73.6,0,Dynamic Wingers
+William Donnarumma,23,England,Bologna,Serie A,Forward,239.0,17.0,3.0,2426.0,75.9,13.0,8.0,22.7,2,Clinical Finishers
+Thibaut James,26,Argentina,Inter,Serie A,Forward,486.0,22.0,4.0,2765.0,82.1,24.4,4.4,35.2,2,Clinical Finishers
+Mike Donnarumma,25,Argentina,Tottenham,English Premier League,Winger,559.0,6.0,6.0,2251.0,83.0,25.8,12.3,66.6,0,Dynamic Wingers
+Harry Wirtz,25,Nigeria,Atalanta,Serie A,Forward,119.1,9.0,3.0,1446.0,74.6,6.0,4.6,9.9,3,Creative Playmakers
+Alejandro Saka,20,Netherlands,Napoli,Serie A,Winger,417.0,5.0,10.0,1871.0,79.4,23.2,10.9,87.2,0,Dynamic Wingers
+Lautaro Szoboszlai,18,South Korea,Frankfurt,Bundesliga,Winger,134.1,5.0,3.0,916.0,83.0,4.3,7.1,21.4,3,Creative Playmakers
+Jude Leão,32,Belgium,Bayern Munich,Bundesliga,Midfielder,15.9,1.0,1.0,494.0,82.0,10.3,7.0,11.4,3,Creative Playmakers
+Dejan Min-son,28,Italy,Villarreal,La Liga,Winger,211.4,4.0,6.0,1384.0,80.5,6.3,11.5,56.8,3,Creative Playmakers
+Paulo Fernandes,36,Japan,Chelsea,English Premier League,Midfielder,33.1,1.0,11.0,1830.0,91.6,11.2,28.7,52.2,0,Dynamic Wingers
+Vinicius Kulusevski,26,Scotland,Brighton,English Premier League,Defender,752.3,1.0,0.0,2760.0,86.7,102.9,111.3,8.0,1,Ball Winners
+Granit Moraes,29,Ivory Coast,Atalanta,Serie A,Defender,9.9,0.0,0.0,424.0,85.8,15.1,10.4,0.7,4,Defensive Anchors
+Alexander Lewandowski,25,Croatia,Man United,English Premier League,Midfielder,311.1,2.0,3.0,1351.0,85.0,29.0,33.8,24.4,4,Defensive Anchors
+Bruno Sané,36,Belgium,Newcastle,English Premier League,Forward,4.1,4.0,1.0,454.0,73.5,2.8,1.2,2.7,3,Creative Playmakers
+Harry Jota,20,Senegal,Napoli,Serie A,Winger,513.7,17.0,8.0,3208.0,81.2,20.0,7.7,85.0,0,Dynamic Wingers
+Trent Eriksen,22,Wales,Marseille,Ligue 1,Defender,296.7,1.0,1.0,2401.0,90.6,53.9,94.1,9.1,1,Ball Winners
+Rasmus Lewandowski,28,Germany,Atletico Madrid,La Liga,Midfielder,157.9,1.0,4.0,795.0,87.3,12.7,5.7,24.3,4,Defensive Anchors
+Khvicha Moraes,31,Ireland,Arsenal,English Premier League,Midfielder,115.7,5.0,14.0,2973.0,86.3,18.7,43.6,91.6,0,Dynamic Wingers
+Jamal Garnacho,35,Scotland,Real Sociedad,La Liga,Forward,12.8,14.0,5.0,3381.0,76.5,22.7,3.7,27.7,2,Clinical Finishers
+Harry Hernández,30,Morocco,Marseille,Ligue 1,Winger,33.7,12.0,7.0,2108.0,82.5,17.9,8.9,96.0,0,Dynamic Wingers
+Eduardo Leão,28,Brazil,Bologna,Serie A,Forward,51.4,3.0,1.0,586.0,76.2,3.7,3.1,11.4,3,Creative Playmakers
+Robert Oblak,30,Argentina,Sevilla,La Liga,Winger,26.9,7.0,6.0,1924.0,78.5,23.0,11.5,62.1,0,Dynamic Wingers
+Jeremie Silva,23,France,Stuttgart,Bundesliga,Forward,520.8,15.0,9.0,3264.0,75.8,8.3,10.7,72.0,0,Dynamic Wingers
+Alejandro Tchouaméni,35,Morocco,Wolfsburg,Bundesliga,Forward,12.0,8.0,4.0,1961.0,82.0,4.9,6.7,44.8,3,Creative Playmakers
+Bruno Maddison,25,Switzerland,Lazio,Serie A,Forward,372.2,24.0,2.0,3041.0,75.9,15.7,11.5,54.2,2,Clinical Finishers
+Alex Salah,22,Argentina,Real Betis,La Liga,Midfielder,129.6,1.0,2.0,763.0,86.3,32.55,16.4,17.3,4,Defensive Anchors
+Dominik Kimmich,19,South Korea,Lazio,Serie A,Forward,213.4,15.0,4.0,1697.0,83.0,6.5,7.5,22.3,2,Clinical Finishers
+Luis Rashford,24,Sweden,PSG,Ligue 1,Winger,299.0,10.0,7.0,2450.0,83.4,29.6,14.5,67.1,0,Dynamic Wingers
+Ruben Isak,21,Italy,Torino,Serie A,Forward,428.9,13.0,5.0,2508.0,82.8,20.0,8.9,56.7,2,Clinical Finishers
+Kevin Moraes,25,Sweden,Lens,Ligue 1,Forward,110.6,9.0,2.0,1789.0,72.9,4.6,8.0,21.8,3,Creative Playmakers
+Alexander Fernandes,20,Sweden,Real Madrid,La Liga,Forward,190.3,14.0,5.0,2314.0,79.0,5.3,10.7,22.7,2,Clinical Finishers
+Christian Saliba,22,France,Fiorentina,Serie A,Defender,398.2,2.0,4.0,3082.0,84.7,56.7,54.6,72.1,1,Ball Winners
+Leroy Bellingham,33,Algeria,Girona,La Liga,Forward,66.3,16.0,2.0,2111.0,81.1,10.5,6.2,35.3,2,Clinical Finishers
+Harry Vlahović,23,Senegal,Napoli,Serie A,Defender,426.1,2.0,1.0,2800.0,90.5,95.1,96.3,10.2,1,Ball Winners
+Alex Becker,36,Ireland,Valencia,La Liga,Defender,21.9,2.0,0.0,2810.0,90.4,103.0,84.8,1.7,1,Ball Winners
+Reece Maignan,30,Egypt,Lazio,Serie A,Winger,76.3,10.0,5.0,1656.0,81.0,24.4,4.0,74.5,0,Dynamic Wingers
+Gianluigi James,29,Wales,Brighton,English Premier League,Winger,202.1,8.0,7.0,3152.0,83.4,48.7,20.6,100.5,0,Dynamic Wingers
+Martin Leão,28,Norway,Torino,Serie A,Midfielder,214.1,2.0,2.0,1853.0,86.1,49.3,62.0,23.3,1,Ball Winners
+Pedri Martínez,20,Croatia,Hoffenheim,Bundesliga,Defender,179.3,1.0,1.0,1388.0,91.7,48.9,39.7,2.9,4,Defensive Anchors
+Teun ter Stegen,20,Croatia,Newcastle,English Premier League,Defender,268.3,1.0,1.0,2209.0,84.4,53.2,44.2,2.9,4,Defensive Anchors
+Mohamed Donnarumma,29,Scotland,Wolfsburg,Bundesliga,Midfielder,71.6,2.0,1.0,3363.0,87.4,129.2,73.6,36.2,1,Ball Winners
+Kylian Rice,30,Croatia,Monaco,Ligue 1,Winger,102.4,7.0,10.0,1743.0,81.9,19.8,12.4,79.1,0,Dynamic Wingers
+Bernardo Müller,34,Italy,Chelsea,English Premier League,Winger,32.3,13.0,10.0,2539.0,79.7,18.6,13.7,56.7,0,Dynamic Wingers
+Eduardo González,24,France,Valencia,La Liga,Winger,85.4,2.0,1.0,542.0,75.2,6.0,3.7,11.3,3,Creative Playmakers
+Romelu Müller,35,Italy,Real Sociedad,La Liga,Winger,15.2,3.0,1.0,510.0,83.8,5.1,3.9,16.4,3,Creative Playmakers
+William Hernández,29,Uruguay,Liverpool,English Premier League,Winger,73.7,4.0,3.0,1149.0,82.7,13.1,6.0,40.0,3,Creative Playmakers
+Luis Moraes,20,Cameroon,Atletico Madrid,La Liga,Midfielder,155.9,1.0,3.0,844.0,91.6,5.7,13.7,16.4,4,Defensive Anchors
+Robert Maignan,35,Croatia,Fiorentina,Serie A,Defender,12.0,1.0,1.0,1673.0,88.4,60.0,56.5,9.2,1,Ball Winners
+Mohamed Modrić,25,Scotland,Liverpool,English Premier League,Winger,673.0,15.0,7.0,2547.0,76.6,38.7,7.6,109.0,0,Dynamic Wingers
+Mike Saliba,24,Morocco,Bayern Munich,Bundesliga,Midfielder,194.6,2.0,7.0,1237.0,86.3,16.3,10.4,32.9,4,Defensive Anchors
+Dejan Dybala,28,Germany,Atalanta,Serie A,Winger,497.8,13.0,10.0,3039.0,83.1,26.1,10.5,110.8,0,Dynamic Wingers
+Victor Musiala,32,England,Leipzig,Bundesliga,Forward,11.9,17.0,4.0,2055.0,81.3,5.6,2.3,21.9,2,Clinical Finishers
+Robert Camavinga,18,Ireland,Atalanta,Serie A,Forward,121.7,8.0,2.0,1482.0,70.5,3.4,8.1,35.3,3,Creative Playmakers
+Mohamed Leão,24,Senegal,Milan,Serie A,Midfielder,225.6,2.0,3.0,1717.0,85.6,32.1,38.3,41.2,4,Defensive Anchors
+Jude Kulusevski,19,Norway,Valencia,La Liga,Winger,630.8,8.0,13.0,2561.0,83.5,32.6,6.4,105.5,0,Dynamic Wingers
+Paulo Saliba,33,England,Brighton,English Premier League,Winger,21.8,6.0,4.0,1409.0,83.5,21.8,10.0,31.6,4,Defensive Anchors
+Kevin Griezmann,23,France,Sevilla,La Liga,Midfielder,174.1,3.0,4.0,1250.0,88.9,5.7,10.5,23.1,4,Defensive Anchors
+Mike Vlahović,34,Croatia,Atalanta,Serie A,Winger,155.8,10.0,14.0,3314.0,82.4,31.3,18.5,150.4,0,Dynamic Wingers
+Eduardo Tchouaméni,29,England,Athletic Club,La Liga,Midfielder,106.4,4.0,5.0,2163.0,86.0,57.7,42.8,46.9,1,Ball Winners
+Ruben Tchouaméni,21,Argentina,Bologna,Serie A,Forward,53.5,3.0,0.0,540.0,76.3,1.7,1.1,6.1,3,Creative Playmakers
+Trent Barella,35,France,Aston Villa,English Premier League,Winger,15.2,2.0,3.0,749.0,76.0,7.3,5.1,17.1,3,Creative Playmakers
+Nicolò Eriksen,24,Wales,Newcastle,English Premier League,Forward,269.9,8.0,1.0,1785.0,78.3,9.1,6.3,36.7,3,Creative Playmakers
+Joshua Valverde,33,Croatia,Athletic Club,La Liga,Defender,12.8,1.0,1.0,449.0,83.0,8.7,10.2,7.1,4,Defensive Anchors
+Dušan Júnior,34,Wales,Brest,Ligue 1,Defender,33.1,1.0,5.0,1946.0,77.5,39.5,32.7,35.4,4,Defensive Anchors
+Florian Müller,34,Argentina,Stuttgart,Bundesliga,Defender,13.9,1.0,3.0,1641.0,77.7,31.7,44.5,19.5,4,Defensive Anchors
+Thomas Eriksen,30,Croatia,Bayern Munich,Bundesliga,Defender,80.7,1.0,7.0,2964.0,84.9,87.0,62.6,41.3,1,Ball Winners
+Jeremie Mbappé,23,Croatia,Milan,Serie A,Midfielder,265.6,1.0,4.0,2221.0,83.6,90.2,46.4,23.3,1,Ball Winners
+Trent Hernández,34,Poland,Hoffenheim,Bundesliga,Defender,22.9,2.0,4.0,2962.0,85.8,53.7,72.6,61.7,1,Ball Winners
+Alejandro González,35,Brazil,Tottenham,English Premier League,Defender,23.5,1.0,4.0,2907.0,78.1,63.4,52.1,43.1,1,Ball Winners
+Diogo Casemiro,21,Switzerland,Atalanta,Serie A,Midfielder,405.1,2.0,2.0,2590.0,86.5,85.0,72.7,30.3,1,Ball Winners
+Bukayo Casemiro,33,Netherlands,Werder Bremen,Bundesliga,Midfielder,18.6,2.0,5.0,1828.0,82.8,56.2,39.8,39.6,4,Defensive Anchors
+Nicolò Saliba,18,Nigeria,Lille,Ligue 1,Midfielder,199.4,7.0,14.0,2930.0,85.1,31.7,31.1,46.2,0,Dynamic Wingers
+Virgil Dybala,31,Sweden,Girona,La Liga,Defender,25.1,1.0,1.0,2284.0,84.55,46.35,84.2,6.5,1,Ball Winners
+Paulo Díaz,32,Spain,Fiorentina,Serie A,Midfielder,7.2,1.0,2.0,548.0,85.6,7.5,6.6,13.0,4,Defensive Anchors
+Phil Foden,21,Cameroon,Athletic Club,La Liga,Defender,220.6,1.0,4.0,1997.0,84.55,64.9,48.8,41.6,1,Ball Winners
+Vinicius Júnior,27,Ireland,Villarreal,La Liga,Midfielder,136.5,2.0,7.0,1300.0,89.7,9.2,6.8,15.6,4,Defensive Anchors
+Declan Courtois,21,France,Bayern Munich,Bundesliga,Defender,319.9,1.0,1.0,2168.0,90.1,82.0,89.2,9.7,1,Ball Winners
+Mike Maddison,18,Germany,Valencia,La Liga,Defender,364.6,2.0,1.0,2679.0,86.5,77.7,62.5,13.4,1,Ball Winners
+Rasmus Lukaku,29,Norway,Lyon,Ligue 1,Forward,8.5,4.0,0.0,486.0,70.9,0.6,2.6,9.5,3,Creative Playmakers
+Declan Foden,32,Denmark,Juventus,Serie A,Midfielder,116.3,5.0,16.0,2889.0,84.6,29.2,15.8,61.8,0,Dynamic Wingers
+Aurélien Guimarães,32,Switzerland,Inter,Serie A,Defender,64.1,1.0,11.0,3283.0,81.3,110.6,57.8,35.6,1,Ball Winners
+Virgil Grealish,33,Cameroon,Valencia,La Liga,Midfielder,30.1,1.0,2.0,2720.0,85.9,92.3,80.5,43.3,1,Ball Winners
+Romelu Silva,31,Croatia,Brest,Ligue 1,Winger,82.6,7.0,10.0,1967.0,76.8,19.6,12.3,50.9,0,Dynamic Wingers
+Martin Páez,29,Argentina,Fiorentina,Serie A,Winger,119.6,8.0,9.0,3307.0,75.4,40.4,25.0,85.0,0,Dynamic Wingers
+Pedri Xhaka,22,Japan,Newcastle,English Premier League,Midfielder,193.1,1.0,1.0,1102.0,89.9,43.2,36.1,6.0,4,Defensive Anchors
+Erling Bellingham,20,Norway,Hoffenheim,Bundesliga,Midfielder,258.3,1.0,1.0,1647.0,88.7,72.4,48.8,20.6,1,Ball Winners
+Nicolò Becker,29,Croatia,Arsenal,English Premier League,Forward,168.3,25.0,7.0,3034.0,76.1,15.2,3.6,38.9,2,Clinical Finishers
+Eduardo Musiala,23,Scotland,Reims,Ligue 1,Winger,350.6,12.0,16.0,3389.0,75.0,35.7,17.4,125.8,0,Dynamic Wingers
+Dominik De Bruyne,19,South Korea,Atletico Madrid,La Liga,Midfielder,93.2,1.0,0.0,459.0,80.5,9.5,11.1,9.1,3,Creative Playmakers
+James Grimaldo,21,South Korea,Man United,English Premier League,Forward,168.3,9.0,1.0,1569.0,80.4,11.1,6.6,17.6,3,Creative Playmakers
+Robert Kulusevski,32,Portugal,Freiburg,Bundesliga,Forward,22.0,7.0,1.0,1001.0,74.7,3.7,0.7,6.0,3,Creative Playmakers
+Bernardo Griezmann,27,Egypt,Atletico Madrid,La Liga,Forward,220.3,11.0,3.0,1772.0,75.7,14.9,7.2,31.0,3,Creative Playmakers
+Hakan Haaland,21,Portugal,Chelsea,English Premier League,Winger,210.2,6.0,8.0,2251.0,84.1,20.5,4.0,62.0,0,Dynamic Wingers
+Martin Çalhanoğlu,31,Senegal,Girona,La Liga,Midfielder,26.4,5.0,5.0,2041.0,88.4,10.0,10.6,59.7,4,Defensive Anchors
+Dušan Ødegaard,23,Georgia,Villarreal,La Liga,Midfielder,355.9,5.0,3.0,1571.0,86.6,43.7,33.8,26.0,4,Defensive Anchors
+Jamal Isak,36,Denmark,Tottenham,English Premier League,Defender,36.2,0.0,0.0,2331.0,89.5,66.1,46.5,9.3,1,Ball Winners
+Marc-André Osimhen,28,Spain,Man City,English Premier League,Winger,246.6,4.0,7.0,1365.0,78.7,6.9,8.8,35.2,3,Creative Playmakers
+Bernardo Wirtz,29,Senegal,Wolfsburg,Bundesliga,Midfielder,70.7,6.0,3.0,2127.0,82.1,38.5,35.3,43.9,4,Defensive Anchors
+William Martínez,26,Brazil,Valencia,La Liga,Forward,113.6,6.0,1.0,846.0,74.5,2.8,2.1,17.5,3,Creative Playmakers
+Mohamed Xhaka,36,England,Napoli,Serie A,Defender,11.3,0.0,1.0,407.0,79.5,9.5,9.3,4.9,3,Creative Playmakers
+Mike Garnacho,29,France,Juventus,Serie A,Midfielder,46.5,7.0,3.0,2049.0,81.6,37.7,53.3,39.1,1,Ball Winners
+Alejandro Griezmann,26,Italy,Lazio,Serie A,Defender,231.5,1.0,0.0,1552.0,89.5,41.1,65.4,8.5,4,Defensive Anchors
+Rasmus Tchouaméni,20,Norway,Werder Bremen,Bundesliga,Defender,224.1,0.0,4.0,1329.0,78.7,43.9,34.4,23.0,4,Defensive Anchors
+Declan Guimarães,32,Italy,Werder Bremen,Bundesliga,Forward,42.4,14.0,4.0,1649.0,76.8,5.0,1.8,11.9,2,Clinical Finishers
+Teun Müller,36,Georgia,Valencia,La Liga,Midfielder,18.7,2.0,4.0,2726.0,89.6,79.0,33.8,36.0,1,Ball Winners
+Victor Kulusevski,24,Portugal,Aston Villa,English Premier League,Defender,401.7,0.0,3.0,2448.0,80.1,81.2,38.7,35.5,1,Ball Winners
+Jack Min-son,31,Belgium,Leverkusen,Bundesliga,Midfielder,18.0,1.0,2.0,792.0,85.2,23.1,8.8,9.1,4,Defensive Anchors
+William Oblak,20,Denmark,Bologna,Serie A,Forward,104.5,4.0,0.0,680.0,82.6,1.4,2.8,16.3,3,Creative Playmakers
+Victor Grimaldo,24,Nigeria,Man United,English Premier League,Forward,211.4,14.0,3.0,1931.0,72.8,6.8,1.7,20.3,2,Clinical Finishers
+Phil Saliba,28,Scotland,Fiorentina,Serie A,Midfielder,622.7,2.0,1.0,2781.0,89.9,126.9,65.7,21.9,1,Ball Winners
+Trent Oblak,34,Poland,Stuttgart,Bundesliga,Midfielder,15.6,1.0,1.0,893.0,84.3,25.1,24.1,11.8,4,Defensive Anchors
+Hakan Jota,25,Uruguay,Frankfurt,Bundesliga,Defender,454.0,0.0,0.0,2621.0,84.5,61.4,40.9,7.3,1,Ball Winners
+Dominik Osimhen,21,Wales,Stuttgart,Bundesliga,Winger,215.3,11.0,8.0,1915.0,82.2,18.2,12.0,41.9,0,Dynamic Wingers
+Rodri Saka,25,Denmark,Wolfsburg,Bundesliga,Forward,68.5,5.0,1.0,840.0,72.5,4.9,1.6,8.0,3,Creative Playmakers
+Son Oblak,25,Argentina,Leverkusen,Bundesliga,Winger,318.2,12.0,9.0,2230.0,79.6,15.4,18.7,68.2,0,Dynamic Wingers
+Vinicius Silva,24,Ireland,Man United,English Premier League,Forward,430.9,17.0,6.0,2127.0,71.7,6.9,5.4,28.8,2,Clinical Finishers
+Rodri ter Stegen,33,Norway,Reims,Ligue 1,Midfielder,41.1,1.0,2.0,1387.0,82.0,57.4,47.4,5.4,4,Defensive Anchors
+Christian Vlahović,21,Switzerland,Brest,Ligue 1,Midfielder,253.7,2.0,8.0,2859.0,87.2,48.6,36.1,70.6,0,Dynamic Wingers
+Marcus Saliba,35,Denmark,West Ham,English Premier League,Midfielder,16.8,5.0,2.0,1963.0,86.3,32.6,39.3,21.8,4,Defensive Anchors
+Dominik Grimaldo,32,Algeria,Nice,Ligue 1,Winger,7.4,1.0,2.0,448.0,83.0,1.9,9.6,19.1,3,Creative Playmakers
+Jack Kvaratskhelia,29,France,Juventus,Serie A,Defender,118.3,1.0,1.0,3294.0,88.2,90.3,107.0,13.5,1,Ball Winners
+Luis Osimhen,22,Netherlands,Leipzig,Bundesliga,Defender,155.9,1.0,0.0,1232.0,87.7,34.0,22.1,3.1,4,Defensive Anchors
+Leroy Donnarumma,22,Brazil,Real Sociedad,La Liga,Defender,116.0,1.0,0.0,1232.0,87.4,25.3,37.1,6.6,4,Defensive Anchors
+Gianluigi Silva,35,Portugal,Roma,Serie A,Winger,52.9,16.0,10.0,2932.0,78.1,26.8,14.3,136.4,0,Dynamic Wingers
+Ederson Kulusevski,34,Uruguay,Leipzig,Bundesliga,Forward,58.5,19.0,3.0,2752.0,73.2,21.0,6.4,58.3,2,Clinical Finishers
+Son Júnior,29,Argentina,Stuttgart,Bundesliga,Forward,81.8,14.0,6.0,2027.0,72.0,15.1,3.2,41.2,2,Clinical Finishers
+Federico Griezmann,22,Netherlands,Lyon,Ligue 1,Defender,217.1,2.0,1.0,2964.0,84.2,94.4,96.1,6.9,1,Ball Winners
+Declan Bellingham,34,Senegal,Werder Bremen,Bundesliga,Winger,41.7,8.0,4.0,1417.0,79.1,21.7,7.3,61.0,3,Creative Playmakers
+Dušan Oblak,32,Ivory Coast,Fiorentina,Serie A,Midfielder,24.9,6.0,8.0,2114.0,91.4,30.9,24.2,63.9,0,Dynamic Wingers
+Alex Griezmann,23,Egypt,Roma,Serie A,Forward,181.2,10.0,4.0,1342.0,70.2,6.5,5.4,25.8,3,Creative Playmakers
+Vinicius Guimarães,26,Senegal,Napoli,Serie A,Winger,52.4,2.0,3.0,456.0,76.2,7.1,1.1,9.1,3,Creative Playmakers
+Jamal Haaland,32,England,Lyon,Ligue 1,Defender,34.4,3.0,9.0,2635.0,83.3,51.7,49.7,53.1,1,Ball Winners
+Mohamed Saliba,30,Uruguay,Atletico Madrid,La Liga,Midfielder,22.1,0.0,1.0,757.0,89.2,31.1,13.4,3.3,4,Defensive Anchors
+Teun Wirtz,20,Brazil,Atalanta,Serie A,Forward,215.0,17.0,4.0,1988.0,72.9,2.7,3.2,26.7,2,Clinical Finishers
+Dominik Páez,27,Germany,Hoffenheim,Bundesliga,Winger,274.8,9.0,8.0,1987.0,79.1,12.3,7.7,55.1,0,Dynamic Wingers
+Ederson Kane,35,Italy,Barcelona,La Liga,Defender,5.0,0.0,0.0,753.0,85.9,15.1,22.8,0.6,4,Defensive Anchors
+Mohamed Kane,26,Portugal,Rennes,Ligue 1,Defender,238.1,0.0,3.0,1580.0,79.4,51.8,27.6,33.4,4,Defensive Anchors
+Alexander Garnacho,33,Senegal,Stuttgart,Bundesliga,Forward,16.3,22.0,5.0,2848.0,75.0,17.2,11.6,16.1,2,Clinical Finishers
+Virgil Vlahović,29,Argentina,Aston Villa,English Premier League,Midfielder,68.1,0.0,1.0,1192.0,87.7,58.3,22.5,11.9,4,Defensive Anchors
+Dejan Modrić,31,Egypt,Werder Bremen,Bundesliga,Defender,72.4,0.0,1.0,1878.0,86.7,64.6,50.4,9.2,1,Ball Winners
+Alex Koopmeiners,26,Senegal,Bayern Munich,Bundesliga,Midfielder,181.6,1.0,1.0,1451.0,88.4,40.0,51.5,10.4,4,Defensive Anchors
+Alexis Rashford,29,Georgia,Reims,Ligue 1,Winger,89.1,12.0,10.0,2215.0,84.4,8.2,15.5,63.8,0,Dynamic Wingers
+Rafael Xhaka,21,Algeria,Wolfsburg,Bundesliga,Winger,106.1,3.0,2.0,518.0,79.7,7.9,1.3,10.6,3,Creative Playmakers
+Teun Musiala,23,Netherlands,Rennes,Ligue 1,Forward,320.7,17.0,3.0,2502.0,74.8,2.8,5.1,44.5,2,Clinical Finishers
+Romelu Kane,18,Ireland,Newcastle,English Premier League,Defender,326.4,2.0,4.0,1482.0,85.4,42.2,29.8,14.5,4,Defensive Anchors
+Bruno Bellingham,35,Argentina,Frankfurt,Bundesliga,Forward,11.5,10.0,2.0,1952.0,71.8,11.6,8.7,32.2,3,Creative Playmakers
+Christian Osimhen,28,Argentina,Man City,English Premier League,Midfielder,450.7,1.0,3.0,3011.0,90.0,123.7,54.1,16.0,1,Ball Winners
+Alexis Vlahović,35,Portugal,Milan,Serie A,Midfielder,25.0,8.0,19.0,3183.0,89.6,53.6,43.7,70.2,0,Dynamic Wingers
+Mohamed Saka,25,Italy,PSG,Ligue 1,Forward,481.9,23.0,7.0,2778.0,73.1,23.8,4.3,65.4,2,Clinical Finishers
+Jan Rice,22,Morocco,Atletico Madrid,La Liga,Midfielder,751.9,2.0,5.0,2758.0,83.7,119.6,98.8,43.9,1,Ball Winners
+Bruno Koopmeiners,25,Uruguay,Villarreal,La Liga,Winger,382.9,8.0,10.0,2419.0,81.3,12.9,13.9,98.2,0,Dynamic Wingers
+Nicolò Osimhen,27,Argentina,Lyon,Ligue 1,Winger,236.6,6.0,8.0,2187.0,82.9,14.1,7.5,67.2,0,Dynamic Wingers
+Bruno Mac Allister,19,Denmark,West Ham,English Premier League,Forward,119.5,4.0,1.0,726.0,79.8,6.0,3.9,11.9,3,Creative Playmakers
+Jack Eriksen,18,Switzerland,Brighton,English Premier League,Winger,479.1,14.0,5.0,2300.0,83.2,28.8,7.6,104.7,0,Dynamic Wingers
+Rasmus Rice,36,Scotland,Torino,Serie A,Midfielder,29.6,4.0,16.0,2850.0,92.5,46.6,27.3,76.1,0,Dynamic Wingers
+Harry Müller,33,Denmark,Werder Bremen,Bundesliga,Midfielder,135.3,3.0,3.0,3283.0,85.7,143.9,112.6,25.5,1,Ball Winners
+Kevin Casemiro,19,Morocco,Man United,English Premier League,Forward,326.7,19.0,2.0,3075.0,71.7,21.7,1.7,41.3,2,Clinical Finishers
+Marcus Kane,24,Netherlands,Lille,Ligue 1,Midfielder,118.2,1.0,1.0,783.0,82.5,21.1,17.1,12.0,4,Defensive Anchors
+Khvicha Oblak,22,Morocco,Juventus,Serie A,Winger,146.1,5.0,4.0,895.0,84.8,11.2,4.0,32.0,4,Defensive Anchors
+Paulo Kimmich,27,Ivory Coast,Sevilla,La Liga,Forward,91.7,3.0,1.0,409.0,82.3,2.5,0.5,6.6,3,Creative Playmakers
+Bernardo Barella,34,Spain,Villarreal,La Liga,Midfielder,21.1,2.0,3.0,2314.0,88.6,104.6,52.0,32.6,1,Ball Winners
+Bukayo Foden,20,Croatia,Man United,English Premier League,Defender,92.3,0.0,0.0,464.0,90.1,16.1,12.6,0.3,4,Defensive Anchors
+Alisson Vlahović,31,France,Marseille,Ligue 1,Defender,47.6,1.0,1.0,3175.0,87.8,97.8,89.8,6.7,1,Ball Winners
+Gianluigi Oblak,20,Denmark,Wolfsburg,Bundesliga,Forward,131.9,6.0,1.0,851.0,80.6,4.3,0.8,9.8,3,Creative Playmakers
+Bernardo Hernández,28,England,Inter,Serie A,Winger,166.8,5.0,3.0,916.0,74.8,11.8,3.4,28.9,3,Creative Playmakers
+Bruno Kulusevski,24,Belgium,Aston Villa,English Premier League,Winger,522.6,13.0,8.0,2838.0,78.6,35.5,6.8,77.8,0,Dynamic Wingers
+Darwin Kane,27,Croatia,Girona,La Liga,Winger,284.2,11.0,7.0,1748.0,76.1,18.3,5.5,59.2,2,Clinical Finishers
+Hakan Mbappé,27,Portugal,Real Betis,La Liga,Midfielder,114.1,2.0,2.0,618.0,87.9,8.5,6.2,8.0,4,Defensive Anchors
+Pedri Casemiro,23,Georgia,Torino,Serie A,Forward,75.8,7.0,2.0,880.0,76.8,2.7,0.5,7.8,3,Creative Playmakers
+Jack Moraes,36,Poland,Lyon,Ligue 1,Winger,25.4,16.0,15.0,3315.0,78.5,11.7,19.5,88.7,0,Dynamic Wingers
+Nicolò Min-son,27,Portugal,Brighton,English Premier League,Winger,514.0,9.0,5.0,2218.0,82.2,32.2,10.6,59.7,0,Dynamic Wingers
+Eduardo Griezmann,34,Argentina,West Ham,English Premier League,Winger,30.5,8.0,12.0,2659.0,83.0,10.5,21.9,55.3,0,Dynamic Wingers
+Granit Maddison,19,Brazil,Milan,Serie A,Midfielder,337.5,4.0,5.0,1737.0,92.6,27.1,24.8,47.9,4,Defensive Anchors
+Son Salah,27,Portugal,Man United,English Premier League,Defender,311.5,0.0,3.0,1002.0,80.8,21.5,25.6,14.1,4,Defensive Anchors
+Jamal Fernandes,35,Senegal,Roma,Serie A,Winger,24.9,5.0,4.0,844.0,83.2,8.0,4.7,20.1,3,Creative Playmakers
+Thibaut González,28,Algeria,Aston Villa,English Premier League,Winger,103.6,2.0,2.0,655.0,74.3,3.9,2.4,25.6,3,Creative Playmakers
+Leroy Leão,22,Croatia,Athletic Club,La Liga,Winger,579.0,15.0,14.0,2902.0,78.9,38.3,5.0,129.6,0,Dynamic Wingers
+Aurélien Júnior,30,Ireland,Lille,Ligue 1,Winger,69.8,9.0,7.0,2425.0,76.5,17.5,19.9,53.5,0,Dynamic Wingers
+Thomas Bellingham,27,Ireland,Man United,English Premier League,Defender,530.2,0.0,0.0,2861.0,87.1,80.7,101.4,7.1,1,Ball Winners
+Bruno Saka,29,Switzerland,Man City,English Premier League,Winger,89.3,14.0,14.0,2682.0,75.3,29.7,15.7,62.1,0,Dynamic Wingers
+Florian Kulusevski,36,Wales,Hoffenheim,Bundesliga,Defender,17.6,1.0,1.0,2810.0,90.8,94.4,78.2,12.1,1,Ball Winners
+Virgil Haaland,19,Japan,PSG,Ligue 1,Forward,155.8,11.0,2.0,1231.0,82.7,6.3,1.4,24.6,3,Creative Playmakers
+Jack Jota,34,South Korea,West Ham,English Premier League,Midfielder,66.1,5.0,5.0,2188.0,85.5,42.7,24.7,44.1,4,Defensive Anchors
+Thomas Silva,26,Netherlands,Brest,Ligue 1,Midfielder,120.4,3.0,6.0,1361.0,84.7,13.1,19.4,39.7,4,Defensive Anchors
+Pedri Saka,29,Georgia,Newcastle,English Premier League,Defender,67.1,1.0,1.0,1131.0,80.4,36.3,22.0,27.6,4,Defensive Anchors
+Mohamed Mac Allister,31,Brazil,Lazio,Serie A,Winger,37.7,4.0,5.0,1043.0,81.2,12.5,1.8,26.9,3,Creative Playmakers
+Paulo ter Stegen,32,Poland,Aston Villa,English Premier League,Defender,35.8,1.0,2.0,649.0,84.2,17.5,9.5,12.5,4,Defensive Anchors
+Rafael Becker,34,Poland,Roma,Serie A,Defender,17.4,1.0,3.0,1257.0,83.8,29.2,24.1,25.1,4,Defensive Anchors
+Ederson Mbappé,29,Germany,Leverkusen,Bundesliga,Winger,131.6,8.0,11.0,2961.0,79.0,44.6,14.2,102.6,0,Dynamic Wingers
+Casemiro ter Stegen,18,South Korea,Nice,Ligue 1,Winger,113.4,6.0,4.0,1322.0,81.3,17.6,9.6,53.3,3,Creative Playmakers
+Dušan Osimhen,25,Norway,Lens,Ligue 1,Winger,572.7,19.0,10.0,3340.0,80.1,12.7,21.7,95.6,0,Dynamic Wingers
+Rafael Modrić,19,Brazil,Inter,Serie A,Winger,282.4,3.0,3.0,1292.0,85.0,9.5,9.1,53.6,4,Defensive Anchors
+Hakan Dias,33,Japan,PSG,Ligue 1,Midfielder,8.3,2.0,4.0,1411.0,84.5,28.8,31.1,17.6,4,Defensive Anchors
+Alexander Lukaku,32,Argentina,Atletico Madrid,La Liga,Midfielder,63.8,4.0,7.0,1631.0,89.2,28.8,22.3,32.5,4,Defensive Anchors
+Robert Maddison,36,Ireland,Milan,Serie A,Midfielder,82.6,6.0,12.0,2987.0,88.0,33.0,44.7,60.7,0,Dynamic Wingers
+Romelu Rice,35,Ivory Coast,Villarreal,La Liga,Midfielder,43.6,3.0,4.0,1498.0,89.8,26.1,7.9,33.3,4,Defensive Anchors
+Diogo Dias,25,Italy,Real Madrid,La Liga,Forward,536.0,14.0,2.0,2877.0,80.1,16.8,11.7,61.5,2,Clinical Finishers
+Mohamed Osimhen,30,Uruguay,Athletic Club,La Liga,Forward,35.3,24.0,2.0,3189.0,79.6,5.9,11.2,60.0,2,Clinical Finishers
+Dominik Alexander-Arnold,31,South Korea,Lazio,Serie A,Defender,21.0,1.0,0.0,1354.0,84.55,51.0,28.2,2.1,4,Defensive Anchors
+Robert Grealish,29,Croatia,Brighton,English Premier League,Winger,36.5,3.0,4.0,1324.0,74.8,7.8,4.4,43.0,3,Creative Playmakers
+Mohamed Musiala,25,Brazil,Hoffenheim,Bundesliga,Midfielder,93.9,1.0,1.0,759.0,81.9,13.3,11.7,10.9,4,Defensive Anchors
+Eduardo De Bruyne,35,Portugal,Real Betis,La Liga,Midfielder,18.8,2.0,1.0,2411.0,87.2,86.1,47.5,28.1,1,Ball Winners
+Reece Jota,27,Morocco,Athletic Club,La Liga,Defender,74.8,0.0,0.0,625.0,87.9,24.9,21.3,1.0,4,Defensive Anchors
+Virgil Lukaku,26,Brazil,Wolfsburg,Bundesliga,Midfielder,227.8,3.0,6.0,1505.0,88.3,23.5,13.3,42.6,4,Defensive Anchors
+Christian Moraes,25,Uruguay,PSG,Ligue 1,Forward,264.0,11.0,4.0,1652.0,76.7,13.0,4.2,39.5,3,Creative Playmakers
+Ederson Courtois,23,Senegal,Leipzig,Bundesliga,Winger,326.2,6.0,5.0,1874.0,83.1,12.8,15.7,86.0,0,Dynamic Wingers
+Romelu Rashford,20,Ivory Coast,Leverkusen,Bundesliga,Midfielder,210.0,5.0,7.0,2222.0,90.1,16.4,33.8,63.5,0,Dynamic Wingers
+Virgil Grimaldo,27,Switzerland,Aston Villa,English Premier League,Defender,354.4,0.0,1.0,3164.0,86.2,69.2,93.8,16.3,1,Ball Winners
+Harry Moraes,32,Ivory Coast,Marseille,Ligue 1,Forward,59.7,16.0,4.0,1920.0,76.3,13.5,6.0,36.2,2,Clinical Finishers
+Virgil Xhaka,33,Ireland,Newcastle,English Premier League,Midfielder,86.4,10.0,7.0,3075.0,84.0,50.2,36.0,53.7,0,Dynamic Wingers
+Erling Frimpong,20,Argentina,Sevilla,La Liga,Defender,318.8,2.0,3.0,2206.0,82.5,50.2,33.3,32.6,4,Defensive Anchors
+Declan Xhaka,34,Norway,Athletic Club,La Liga,Forward,20.4,7.0,1.0,823.0,70.9,1.0,3.9,12.7,3,Creative Playmakers
+Declan Isak,36,France,Lazio,Serie A,Defender,18.4,1.0,0.0,2442.0,85.7,79.1,79.2,7.5,1,Ball Winners
+Virgil Foden,34,Spain,Freiburg,Bundesliga,Defender,57.6,1.0,0.0,1917.0,83.7,55.3,46.3,4.4,4,Defensive Anchors
+Kevin Sané,29,Ivory Coast,Newcastle,English Premier League,Defender,181.1,3.0,1.0,2919.0,87.5,72.8,85.5,11.3,1,Ball Winners
+Marcus Casemiro,22,Egypt,Real Madrid,La Liga,Midfielder,257.9,3.0,6.0,1586.0,87.6,25.8,24.4,46.5,4,Defensive Anchors
+Erling Guimarães,20,Algeria,Rennes,Ligue 1,Defender,174.4,0.0,5.0,1856.0,81.8,42.5,37.9,25.2,4,Defensive Anchors
+Vinicius Bellingham,23,Croatia,Lazio,Serie A,Defender,93.8,0.0,2.0,490.0,81.7,14.8,9.3,8.6,4,Defensive Anchors
+Jude Grealish,22,Senegal,Atalanta,Serie A,Forward,166.9,9.0,2.0,984.0,79.1,5.8,4.8,9.6,3,Creative Playmakers
+Thibaut Donnarumma,26,Netherlands,Athletic Club,La Liga,Defender,152.7,0.0,0.0,1073.0,87.7,26.1,45.0,3.7,4,Defensive Anchors
+Joshua Júnior,32,Croatia,Napoli,Serie A,Winger,31.4,8.0,6.0,2208.0,74.9,20.0,11.4,93.7,0,Dynamic Wingers
+Marc-André Dias,30,Croatia,Lyon,Ligue 1,Midfielder,30.3,1.0,1.0,1483.0,85.8,56.8,54.1,11.1,4,Defensive Anchors
+Luka De Bruyne,34,Morocco,Marseille,Ligue 1,Defender,21.0,0.0,0.0,955.0,83.4,32.3,32.1,1.6,4,Defensive Anchors
+Jeremie Valverde,34,Netherlands,Milan,Serie A,Forward,11.6,16.0,4.0,2802.0,78.8,17.5,2.5,36.5,2,Clinical Finishers
+Kevin Grimaldo,30,France,Atalanta,Serie A,Defender,57.0,1.0,1.0,1191.0,85.0,44.9,48.4,6.1,4,Defensive Anchors
+Khvicha Modrić,35,England,Marseille,Ligue 1,Defender,14.4,0.0,2.0,570.0,81.9,18.7,11.1,8.4,4,Defensive Anchors
+Luka Dias,25,Algeria,Tottenham,English Premier League,Winger,360.3,5.0,8.0,1635.0,80.2,22.0,11.1,63.1,0,Dynamic Wingers
+Jude Lukaku,23,Egypt,Aston Villa,English Premier League,Winger,522.9,11.0,8.0,2303.0,82.6,35.8,7.0,74.3,0,Dynamic Wingers
+Gavi Kulusevski,22,Georgia,Freiburg,Bundesliga,Winger,256.0,8.0,7.0,2728.0,78.6,34.3,22.2,60.7,0,Dynamic Wingers
+Thomas Tchouaméni,31,Egypt,Bayern Munich,Bundesliga,Winger,39.4,8.0,13.0,2546.0,84.4,18.0,9.1,69.9,0,Dynamic Wingers
+Alexis Alexander-Arnold,34,Denmark,Atletico Madrid,La Liga,Forward,8.4,4.0,0.0,586.0,80.2,2.0,0.4,9.8,3,Creative Playmakers
+Kylian Moraes,32,Brazil,Leverkusen,Bundesliga,Midfielder,23.2,1.0,4.0,652.0,92.4,3.7,6.5,11.6,4,Defensive Anchors
+Trent Saliba,27,Netherlands,Lille,Ligue 1,Defender,172.0,1.0,0.0,1804.0,89.2,56.0,41.6,2.9,4,Defensive Anchors
+Rafael Lewandowski,23,Belgium,Girona,La Liga,Defender,191.5,0.0,1.0,1183.0,80.5,35.7,18.3,22.3,4,Defensive Anchors
+Phil Barella,26,Netherlands,Juventus,Serie A,Winger,508.2,17.0,15.0,3029.0,75.6,30.3,7.4,64.2,0,Dynamic Wingers
+Pedri Becker,21,Japan,Bayern Munich,Bundesliga,Forward,254.0,14.0,4.0,2233.0,71.5,5.4,5.2,44.5,2,Clinical Finishers
+Jack Lukaku,19,Ivory Coast,Wolfsburg,Bundesliga,Winger,522.6,9.0,11.0,2641.0,83.4,15.3,22.2,101.4,0,Dynamic Wingers
+Kevin Camavinga,32,Switzerland,Leverkusen,Bundesliga,Forward,9.3,9.0,4.0,1771.0,80.2,12.9,6.3,27.0,3,Creative Playmakers
+Casemiro Hernández,20,Germany,Inter,Serie A,Winger,137.2,2.0,2.0,1055.0,78.2,5.4,9.6,34.2,3,Creative Playmakers
+Joshua Kulusevski,22,Wales,Lens,Ligue 1,Forward,45.2,7.0,1.0,867.0,83.0,2.2,3.1,11.6,3,Creative Playmakers
+Marcus Maddison,24,Cameroon,Real Madrid,La Liga,Midfielder,303.1,6.0,7.0,2437.0,83.2,68.5,51.1,28.0,1,Ball Winners
+Luka Saliba,19,Algeria,Frankfurt,Bundesliga,Defender,378.9,2.0,5.0,1877.0,84.1,66.6,41.9,25.7,1,Ball Winners
+Leroy Casemiro,30,Ivory Coast,Roma,Serie A,Defender,49.6,1.0,7.0,3108.0,77.4,93.1,84.7,68.1,1,Ball Winners
+Ruben Frimpong,34,Spain,Bayern Munich,Bundesliga,Forward,21.4,23.0,5.0,2556.0,73.7,8.8,12.8,14.9,2,Clinical Finishers
+Alexis Oblak,25,Uruguay,Bologna,Serie A,Midfielder,285.2,4.0,11.0,2068.0,87.5,27.6,34.2,32.3,0,Dynamic Wingers
+Jeremie Wirtz,32,Wales,Atalanta,Serie A,Winger,115.7,18.0,12.0,2975.0,82.9,21.8,11.5,91.4,0,Dynamic Wingers
+Rafael Silva,18,Egypt,Stuttgart,Bundesliga,Forward,171.9,9.0,3.0,1898.0,73.3,14.0,5.1,46.2,3,Creative Playmakers
+Virgil Maignan,32,Scotland,Lens,Ligue 1,Midfielder,101.7,2.0,2.0,2658.0,84.7,78.8,87.6,32.0,1,Ball Winners
+Dominik Rice,27,Ivory Coast,Atalanta,Serie A,Winger,144.3,3.0,3.0,826.0,80.6,9.3,2.3,38.0,3,Creative Playmakers
+Dejan Ødegaard,28,Netherlands,Lille,Ligue 1,Forward,205.6,16.0,3.0,2293.0,81.8,6.8,4.9,15.2,2,Clinical Finishers
+Darwin De Bruyne,28,Croatia,Girona,La Liga,Forward,253.6,13.0,5.0,2876.0,82.6,11.6,2.5,34.4,2,Clinical Finishers
+Khvicha James,20,Poland,Hoffenheim,Bundesliga,Forward,120.3,5.0,3.0,1346.0,78.0,6.3,3.4,19.1,3,Creative Playmakers
+Thomas Rashford,24,Poland,Monaco,Ligue 1,Winger,184.8,9.0,6.0,2410.0,78.3,12.8,16.8,61.6,0,Dynamic Wingers
+Mohamed ter Stegen,20,Brazil,Lyon,Ligue 1,Midfielder,309.1,2.0,3.0,2739.0,87.3,71.7,55.6,41.2,1,Ball Winners
+Paulo De Bruyne,22,Croatia,Real Betis,La Liga,Forward,314.7,13.0,5.0,2989.0,78.2,22.6,13.4,32.2,2,Clinical Finishers
+Alisson Saka,23,Italy,Roma,Serie A,Winger,562.8,19.0,6.0,3054.0,83.8,15.7,22.4,111.4,0,Dynamic Wingers
+Rafael Vlahović,28,South Korea,Monaco,Ligue 1,Defender,222.9,0.0,0.0,1910.0,84.7,55.7,69.1,9.7,1,Ball Winners
+Declan Eriksen,35,Belgium,Arsenal,English Premier League,Forward,100.9,17.0,6.0,2407.0,78.2,17.4,8.5,32.2,2,Clinical Finishers
+Victor Silva,34,Spain,Girona,La Liga,Defender,17.4,2.0,1.0,3174.0,85.0,105.8,62.6,8.8,1,Ball Winners
+Rafael Çalhanoğlu,23,Italy,Brest,Ligue 1,Midfielder,164.1,2.0,3.0,1303.0,80.1,20.8,26.5,22.1,4,Defensive Anchors
+Ruben Müller,34,England,Leverkusen,Bundesliga,Winger,83.5,9.0,7.0,1914.0,79.0,28.3,16.8,78.9,0,Dynamic Wingers
+Nicolò Páez,28,Portugal,Rennes,Ligue 1,Winger,175.2,4.0,5.0,1564.0,81.4,8.5,3.2,45.1,3,Creative Playmakers
+Christian Min-son,19,Poland,Torino,Serie A,Defender,186.0,3.0,3.0,1941.0,81.4,40.4,25.4,35.9,4,Defensive Anchors
+Alex Kulusevski,29,Georgia,Monaco,Ligue 1,Midfielder,59.4,6.0,7.0,2184.0,81.9,63.7,54.5,27.0,1,Ball Winners
+Gavi Díaz,36,Switzerland,Freiburg,Bundesliga,Defender,17.8,2.0,7.0,2283.0,84.2,75.8,30.2,44.9,1,Ball Winners
+Leroy Mac Allister,33,Cameroon,Napoli,Serie A,Defender,49.2,1.0,0.0,1862.0,84.1,52.5,49.2,3.9,4,Defensive Anchors
+Vinicius Núñez,24,Ireland,Milan,Serie A,Defender,232.0,1.0,4.0,1726.0,77.4,52.1,30.6,35.3,4,Defensive Anchors
+Harry Grimaldo,30,Croatia,Leipzig,Bundesliga,Winger,65.6,8.0,14.0,3076.0,76.0,22.2,14.4,136.0,0,Dynamic Wingers
+William Guimarães,25,Egypt,Brest,Ligue 1,Forward,137.8,14.0,3.0,1954.0,75.3,10.1,9.8,18.1,2,Clinical Finishers
+Trent Griezmann,36,Morocco,Fiorentina,Serie A,Forward,5.0,5.0,1.0,880.0,73.2,3.1,2.9,14.7,3,Creative Playmakers
+Paulo Rashford,35,Cameroon,Werder Bremen,Bundesliga,Midfielder,61.2,7.0,4.0,2462.0,82.3,48.5,41.0,43.2,1,Ball Winners
+Luka Mbappé,30,Belgium,Valencia,La Liga,Forward,32.0,7.0,3.0,1518.0,74.2,2.4,1.9,8.5,3,Creative Playmakers
+Nicolò van Dijk,29,England,Villarreal,La Liga,Forward,66.2,19.0,6.0,2755.0,82.1,16.4,12.6,19.7,2,Clinical Finishers
+Rasmus Dybala,35,Sweden,Freiburg,Bundesliga,Forward,8.9,7.0,2.0,892.0,77.5,2.4,2.7,10.2,3,Creative Playmakers
+Gianluigi Højlund,36,Wales,Juventus,Serie A,Winger,18.7,10.0,9.0,1790.0,83.1,23.4,7.2,72.3,0,Dynamic Wingers
+Martin Kvaratskhelia,36,Croatia,Chelsea,English Premier League,Defender,73.7,0.0,5.0,2114.0,81.4,58.1,58.5,47.4,1,Ball Winners
+Bukayo Valverde,35,Ireland,Rennes,Ligue 1,Midfielder,16.8,2.0,2.0,2272.0,83.1,69.4,33.8,33.7,1,Ball Winners
+Vinicius Mac Allister,24,South Korea,Napoli,Serie A,Midfielder,404.2,2.0,1.0,2211.0,88.3,92.9,68.5,14.8,1,Ball Winners
+Martin Martínez,18,Ivory Coast,Freiburg,Bundesliga,Forward,216.2,13.0,3.0,1546.0,72.5,10.4,5.0,26.2,3,Creative Playmakers
+Mohamed Kulusevski,20,Sweden,PSG,Ligue 1,Defender,149.5,0.0,3.0,1447.0,85.0,26.9,40.9,28.1,4,Defensive Anchors
+Dejan ter Stegen,34,Uruguay,Arsenal,English Premier League,Winger,13.3,2.0,2.0,478.0,79.7,4.2,3.8,16.0,3,Creative Playmakers
+Harry Mac Allister,19,Croatia,Rennes,Ligue 1,Defender,55.9,0.0,0.0,739.0,91.1,27.4,25.3,0.9,4,Defensive Anchors
+Kevin Wirtz,19,South Korea,Man United,English Premier League,Forward,303.4,15.0,2.0,2772.0,74.9,15.4,8.2,60.5,2,Clinical Finishers
+Gianluigi González,19,Ireland,Lens,Ligue 1,Midfielder,276.4,7.0,19.0,3325.0,87.9,20.1,35.6,60.1,0,Dynamic Wingers
+Victor Szoboszlai,21,Cameroon,Real Betis,La Liga,Winger,795.9,11.0,14.0,3321.0,74.9,29.4,23.3,127.2,0,Dynamic Wingers
+Luka Páez,36,South Korea,Barcelona,La Liga,Winger,26.8,12.0,7.0,2258.0,80.2,15.2,16.5,98.5,0,Dynamic Wingers
+Rafael Júnior,31,Spain,Torino,Serie A,Midfielder,23.3,1.0,5.0,3138.0,86.3,95.5,68.3,20.2,1,Ball Winners
+Thibaut Núñez,20,South Korea,Lens,Ligue 1,Midfielder,266.7,6.0,11.0,2573.0,91.6,23.1,33.7,79.7,0,Dynamic Wingers
+Luis González,20,Senegal,Fiorentina,Serie A,Defender,172.8,1.0,0.0,1905.0,90.8,42.6,41.9,5.6,4,Defensive Anchors
+Marc-André Mac Allister,25,Algeria,Leverkusen,Bundesliga,Defender,132.3,1.0,3.0,985.0,85.0,21.0,16.7,13.2,4,Defensive Anchors
+Kylian Rashford,35,Japan,Tottenham,English Premier League,Defender,25.8,2.0,6.0,2261.0,78.4,62.2,30.9,33.4,1,Ball Winners
+Eduardo Ødegaard,32,Italy,Torino,Serie A,Forward,24.8,5.0,1.0,947.0,82.3,2.1,4.1,7.2,3,Creative Playmakers
+Rafael Camavinga,20,Georgia,Lazio,Serie A,Forward,154.1,6.0,2.0,945.0,79.7,7.1,3.8,21.7,3,Creative Playmakers
+Phil Saka,24,Germany,Barcelona,La Liga,Winger,572.4,9.0,6.0,2163.0,78.7,32.8,13.9,75.8,0,Dynamic Wingers
+Romelu Dias,34,Nigeria,Milan,Serie A,Winger,11.7,2.0,2.0,529.0,78.5,3.1,2.5,11.6,3,Creative Playmakers
+Aurélien Maddison,28,Scotland,Newcastle,English Premier League,Defender,140.8,1.0,1.0,765.0,84.6,19.0,12.5,16.5,4,Defensive Anchors
+Alisson Júnior,35,Ireland,Lyon,Ligue 1,Winger,9.6,4.0,3.0,1312.0,84.1,9.6,5.7,52.8,3,Creative Playmakers
+Bruno Martínez,32,Cameroon,Marseille,Ligue 1,Midfielder,109.7,2.0,3.0,3305.0,90.7,112.7,89.2,26.5,1,Ball Winners
+Dušan Isak,20,Argentina,Man United,English Premier League,Winger,316.7,9.0,7.0,1731.0,77.7,17.3,3.4,69.0,0,Dynamic Wingers
+Trent Becker,25,Japan,Frankfurt,Bundesliga,Defender,68.8,1.0,1.0,547.0,78.0,15.5,11.1,5.1,3,Creative Playmakers
+Christian Camavinga,28,France,Leverkusen,Bundesliga,Defender,115.9,1.0,3.0,1129.0,83.1,46.35,23.4,17.6,4,Defensive Anchors
+Gavi Maddison,19,Sweden,Stuttgart,Bundesliga,Midfielder,247.4,1.0,2.0,1935.0,87.8,46.5,68.9,9.5,1,Ball Winners
+Bernardo Maddison,36,Portugal,Leipzig,Bundesliga,Midfielder,42.9,8.0,4.0,2804.0,83.4,50.8,64.2,48.3,1,Ball Winners
+Reece Camavinga,25,Scotland,Chelsea,English Premier League,Defender,460.2,2.0,4.0,2041.0,79.4,61.5,31.5,21.1,4,Defensive Anchors
+Reece James,20,South Korea,Inter,Serie A,Defender,139.3,0.0,4.0,1270.0,83.4,42.9,27.9,13.7,4,Defensive Anchors
+Bukayo Kane,36,Argentina,West Ham,English Premier League,Winger,34.9,10.0,7.0,2967.0,82.0,39.4,10.5,120.6,0,Dynamic Wingers
+Alexis Júnior,29,Switzerland,Hoffenheim,Bundesliga,Midfielder,9.9,1.0,3.0,534.0,84.3,5.8,4.6,15.8,4,Defensive Anchors
+Leroy Valverde,36,Germany,Lyon,Ligue 1,Winger,12.9,8.0,9.0,2504.0,78.7,10.6,6.1,106.0,0,Dynamic Wingers
+Phil Kimmich,27,Algeria,Man United,English Premier League,Winger,505.0,6.0,12.0,2504.0,75.3,9.7,12.1,106.4,0,Dynamic Wingers
+Hakan Silva,35,Japan,Villarreal,La Liga,Defender,17.5,1.0,4.0,1965.0,85.9,65.3,42.5,33.3,1,Ball Winners
+Joshua Griezmann,35,England,Torino,Serie A,Midfielder,8.0,0.0,1.0,1674.0,85.8,42.3,34.0,17.8,4,Defensive Anchors
+Rafael Salah,25,Ivory Coast,Valencia,La Liga,Midfielder,632.1,9.0,7.0,3345.0,86.3,88.2,37.8,50.2,1,Ball Winners
+Gavi Kane,26,Georgia,Nice,Ligue 1,Midfielder,291.7,3.0,12.0,3292.0,85.8,54.5,45.2,81.1,0,Dynamic Wingers
+Alejandro Jota,21,Argentina,Wolfsburg,Bundesliga,Forward,119.7,8.0,1.0,820.0,73.3,3.7,3.9,7.7,3,Creative Playmakers
+Christian Dybala,27,Morocco,Wolfsburg,Bundesliga,Forward,97.9,6.0,0.0,655.0,77.0,5.4,1.6,13.9,3,Creative Playmakers
+Alisson Kimmich,23,Belgium,PSG,Ligue 1,Midfielder,133.1,4.0,5.0,1623.0,91.2,23.2,8.5,30.6,4,Defensive Anchors
+Kevin Modrić,33,Brazil,Werder Bremen,Bundesliga,Midfielder,54.9,3.0,10.0,1843.0,85.6,31.5,13.1,32.5,4,Defensive Anchors
+Thomas Grimaldo,35,Georgia,Wolfsburg,Bundesliga,Defender,52.5,1.0,7.0,3035.0,78.5,73.1,57.3,29.7,1,Ball Winners
+Florian Isak,23,Ireland,Leverkusen,Bundesliga,Midfielder,223.5,2.0,4.0,1368.0,81.0,38.2,26.8,28.1,4,Defensive Anchors
+Dominik Isak,33,Morocco,Lille,Ligue 1,Defender,8.1,1.0,5.0,1359.0,83.3,26.2,36.2,22.2,4,Defensive Anchors
+Luis Eriksen,29,Algeria,Lille,Ligue 1,Midfielder,65.8,4.0,11.0,2598.0,91.6,34.1,31.1,38.0,0,Dynamic Wingers
+Antoine Frimpong,24,Morocco,Leipzig,Bundesliga,Defender,223.0,1.0,3.0,945.0,81.4,19.8,25.6,15.2,4,Defensive Anchors
+Bernardo Júnior,25,Norway,Leverkusen,Bundesliga,Midfielder,63.9,0.0,0.0,484.0,89.0,12.5,12.8,5.5,4,Defensive Anchors
+Mohamed Vlahović,30,Nigeria,Man City,English Premier League,Defender,155.5,1.0,6.0,1801.0,85.0,42.8,40.5,42.0,4,Defensive Anchors
+Robert Mac Allister,22,Senegal,Monaco,Ligue 1,Midfielder,110.8,3.0,8.0,2133.0,93.0,11.0,24.6,27.2,4,Defensive Anchors
+Dominik Foden,29,Uruguay,Athletic Club,La Liga,Defender,92.3,1.0,0.0,1791.0,86.1,64.3,59.2,9.4,1,Ball Winners
+Joshua Kimmich,26,Croatia,Milan,Serie A,Midfielder,162.1,3.0,3.0,973.0,82.3,23.3,19.5,14.8,4,Defensive Anchors
+Rasmus Kvaratskhelia,29,Belgium,Rennes,Ligue 1,Defender,13.8,1.0,2.0,706.0,85.9,20.2,13.0,14.8,4,Defensive Anchors
+Romelu Fernandes,32,Cameroon,Stuttgart,Bundesliga,Winger,24.6,12.0,16.0,3242.0,76.6,19.7,17.2,87.4,0,Dynamic Wingers
+Luka Min-son,35,Ivory Coast,Arsenal,English Premier League,Defender,53.4,2.0,5.0,2007.0,80.5,40.4,33.3,36.0,4,Defensive Anchors
+Bernardo Çalhanoğlu,35,England,Dortmund,Bundesliga,Midfielder,8.2,3.0,4.0,1359.0,85.6,10.9,8.0,21.4,4,Defensive Anchors
+Erling Ødegaard,29,Germany,Monaco,Ligue 1,Winger,45.2,9.0,7.0,1781.0,82.6,17.3,11.2,73.0,0,Dynamic Wingers
+Teun Garnacho,35,Portugal,Reims,Ligue 1,Midfielder,4.1,1.0,2.0,817.0,83.7,15.5,10.9,19.4,4,Defensive Anchors
+James James,24,Uruguay,Real Sociedad,La Liga,Winger,556.3,10.0,8.0,3047.0,78.5,36.4,9.9,90.7,0,Dynamic Wingers
+Ederson Salah,21,Morocco,Lyon,Ligue 1,Defender,86.6,0.0,0.0,709.0,90.0,26.4,27.2,1.7,4,Defensive Anchors
+Kylian Foden,19,Sweden,Wolfsburg,Bundesliga,Winger,190.9,5.0,9.0,1790.0,83.0,27.5,14.7,76.5,0,Dynamic Wingers
+Rodri van Dijk,27,Norway,Newcastle,English Premier League,Winger,282.7,3.0,4.0,1039.0,77.7,10.8,8.4,36.6,3,Creative Playmakers
+Paulo Guimarães,23,Spain,Werder Bremen,Bundesliga,Winger,356.1,9.0,9.0,2369.0,77.3,21.1,6.7,66.6,0,Dynamic Wingers
+Phil Vlahović,35,Georgia,Marseille,Ligue 1,Winger,38.2,4.0,8.0,1589.0,79.5,11.1,5.7,50.1,3,Creative Playmakers
+Trent Mac Allister,23,Egypt,Barcelona,La Liga,Winger,298.3,9.0,6.0,2332.0,81.1,32.5,17.8,85.6,0,Dynamic Wingers
+Lautaro Camavinga,24,Germany,Lens,Ligue 1,Forward,111.9,7.0,2.0,870.0,75.9,4.4,3.0,20.2,3,Creative Playmakers
+Florian De Bruyne,20,Senegal,Lille,Ligue 1,Midfielder,422.3,2.0,3.0,2544.0,89.5,122.6,94.8,10.7,1,Ball Winners
+Diogo Courtois,20,Egypt,Freiburg,Bundesliga,Forward,101.7,5.0,1.0,680.0,72.8,1.3,0.6,11.4,3,Creative Playmakers
+Teun Maignan,23,Japan,Barcelona,La Liga,Defender,830.2,4.0,6.0,3123.0,85.2,110.0,72.6,67.4,1,Ball Winners
+Eduardo Bellingham,32,Ivory Coast,Tottenham,English Premier League,Midfielder,30.0,4.0,3.0,1347.0,83.7,22.6,30.0,29.2,4,Defensive Anchors
+Son Rice,25,Brazil,Tottenham,English Premier League,Midfielder,711.7,1.0,5.0,3279.0,89.4,139.3,58.0,47.8,1,Ball Winners
+Eduardo Rashford,33,Belgium,Frankfurt,Bundesliga,Forward,62.8,16.0,3.0,1765.0,71.6,9.2,1.9,16.6,2,Clinical Finishers
+Alexander Xhaka,25,Ireland,Nice,Ligue 1,Winger,205.4,5.0,4.0,1465.0,75.4,17.0,11.5,66.9,3,Creative Playmakers
+Alexis Casemiro,23,Japan,Girona,La Liga,Forward,205.6,9.0,4.0,2001.0,80.5,12.7,6.1,47.0,3,Creative Playmakers
+Erling Salah,31,Ireland,Napoli,Serie A,Winger,60.9,6.0,7.0,1359.0,76.3,6.9,9.7,45.3,3,Creative Playmakers
+Ruben Rice,18,Georgia,Atletico Madrid,La Liga,Defender,200.7,1.0,1.0,1722.0,85.6,44.6,45.5,5.8,4,Defensive Anchors
+Martin Isak,18,England,Sevilla,La Liga,Midfielder,385.0,2.0,2.0,2902.0,86.7,100.8,52.7,41.3,1,Ball Winners
+Alisson Jota,22,Denmark,Bologna,Serie A,Forward,160.2,18.0,2.0,2628.0,73.1,6.3,3.1,32.8,2,Clinical Finishers
+Jeremie Kulusevski,24,Japan,Athletic Club,La Liga,Forward,378.5,11.0,4.0,1611.0,82.9,3.8,6.5,29.5,3,Creative Playmakers
+Alisson Silva,19,Denmark,Liverpool,English Premier League,Midfielder,349.7,3.0,7.0,1811.0,86.8,26.5,28.8,54.2,4,Defensive Anchors
+Bruno Isak,18,Belgium,Bayern Munich,Bundesliga,Forward,232.7,12.0,3.0,3144.0,74.5,11.2,14.2,57.9,2,Clinical Finishers
+Alexander Frimpong,24,Poland,Juventus,Serie A,Midfielder,437.6,1.0,1.0,3073.0,87.2,143.1,62.7,10.5,1,Ball Winners
+Phil Musiala,25,Italy,Athletic Club,La Liga,Winger,430.8,12.0,11.0,2004.0,75.8,14.0,4.8,54.6,0,Dynamic Wingers
+Khvicha Fernandes,19,South Korea,Bologna,Serie A,Forward,218.6,14.0,1.0,1564.0,70.7,2.0,2.0,28.1,3,Creative Playmakers
+Rasmus Becker,27,Italy,Villarreal,La Liga,Midfielder,566.4,2.0,1.0,2408.0,85.3,87.9,90.8,23.3,1,Ball Winners
+Granit Maignan,34,Germany,Leverkusen,Bundesliga,Defender,3.8,0.0,0.0,849.0,84.3,18.6,15.4,4.2,4,Defensive Anchors
+Khvicha Kane,19,Morocco,Liverpool,English Premier League,Defender,83.7,0.0,0.0,680.0,84.3,13.7,12.4,2.4,4,Defensive Anchors
+Joshua Leão,24,Cameroon,Man City,English Premier League,Midfielder,108.6,1.0,2.0,628.0,83.1,11.5,10.7,9.9,4,Defensive Anchors
+Jude González,32,Uruguay,Leverkusen,Bundesliga,Midfielder,74.3,5.0,10.0,3238.0,89.6,29.9,33.8,67.1,0,Dynamic Wingers
+Bukayo Min-son,35,Portugal,Villarreal,La Liga,Winger,41.1,12.0,10.0,2346.0,74.9,14.1,8.2,99.0,0,Dynamic Wingers
+Rodri Saliba,36,Ireland,Sevilla,La Liga,Forward,21.2,7.0,3.0,1124.0,72.9,2.7,2.9,25.9,3,Creative Playmakers
+Mohamed Moraes,23,Ireland,Liverpool,English Premier League,Midfielder,298.0,1.0,5.0,1014.0,86.2,14.2,14.1,24.9,4,Defensive Anchors
+Thomas Mbappé,22,Uruguay,Atalanta,Serie A,Defender,45.1,0.0,0.0,538.0,88.7,11.2,40.9,2.8,4,Defensive Anchors
+Romelu Donnarumma,36,France,Girona,La Liga,Midfielder,66.8,3.0,3.0,2306.0,88.7,53.2,44.4,27.2,1,Ball Winners
+Vinicius Jota,27,Ivory Coast,Dortmund,Bundesliga,Defender,224.8,1.0,0.0,1440.0,84.9,46.35,33.2,4.7,4,Defensive Anchors
+Declan Højlund,20,Ivory Coast,Arsenal,English Premier League,Defender,178.1,1.0,0.0,1072.0,91.6,22.4,22.8,0.7,4,Defensive Anchors
+Vinicius Becker,22,Sweden,Nice,Ligue 1,Forward,91.8,10.0,1.0,1443.0,78.9,7.3,6.3,21.2,3,Creative Playmakers
+Bernardo Bellingham,30,Denmark,Werder Bremen,Bundesliga,Forward,86.4,21.0,6.0,2818.0,77.6,9.0,2.0,22.0,2,Clinical Finishers
+Rasmus Vlahović,25,Senegal,Real Sociedad,La Liga,Defender,378.6,1.0,5.0,2463.0,77.0,86.0,67.8,51.2,1,Ball Winners
+Mohamed Maignan,35,Georgia,Leverkusen,Bundesliga,Midfielder,5.9,1.0,3.0,613.0,87.5,6.1,3.1,10.4,4,Defensive Anchors
+Rafael Páez,31,Georgia,Man City,English Premier League,Forward,24.1,5.0,1.0,800.0,74.7,4.2,2.8,16.5,3,Creative Playmakers
+Jan Vlahović,24,Brazil,Sevilla,La Liga,Forward,209.9,16.0,4.0,2351.0,76.3,17.1,7.0,27.9,2,Clinical Finishers
+Declan Alexander-Arnold,34,Poland,Torino,Serie A,Defender,28.3,1.0,4.0,1847.0,85.7,45.2,30.5,23.4,4,Defensive Anchors
+Bruno Fernandes,23,Egypt,Frankfurt,Bundesliga,Midfielder,242.4,3.0,2.0,1392.0,85.9,22.8,35.2,16.7,4,Defensive Anchors
+Paulo Moraes,27,Croatia,Wolfsburg,Bundesliga,Defender,164.0,1.0,1.0,1447.0,85.9,29.9,30.2,7.4,4,Defensive Anchors
+Khvicha Grealish,20,Argentina,Inter,Serie A,Defender,141.4,1.0,2.0,1398.0,82.3,41.4,21.8,31.6,4,Defensive Anchors
+Ruben De Bruyne,35,Portugal,Torino,Serie A,Midfielder,28.0,0.0,2.0,1242.0,89.0,33.2,34.1,12.2,4,Defensive Anchors
+Thibaut Casemiro,24,Nigeria,Freiburg,Bundesliga,Forward,73.0,3.0,1.0,420.0,78.7,2.1,2.2,2.5,3,Creative Playmakers
+Bruno Çalhanoğlu,22,Scotland,Barcelona,La Liga,Forward,73.7,3.0,1.0,642.0,72.1,5.1,0.4,14.3,3,Creative Playmakers
+Ruben Páez,34,Netherlands,Leverkusen,Bundesliga,Defender,75.2,1.0,4.0,2818.0,83.3,82.3,71.2,66.1,1,Ball Winners
+Jeremie Núñez,28,Cameroon,Freiburg,Bundesliga,Midfielder,559.5,2.0,2.0,2404.0,88.9,112.8,64.6,18.1,1,Ball Winners
+Jack De Bruyne,21,England,Man City,English Premier League,Winger,172.0,3.0,3.0,685.0,74.2,8.8,2.9,21.1,3,Creative Playmakers
+Aurélien Ødegaard,23,Cameroon,Brest,Ligue 1,Defender,243.6,4.0,4.0,2814.0,80.2,71.0,52.7,54.2,1,Ball Winners
+Antoine Becker,26,Poland,Milan,Serie A,Forward,85.1,6.0,1.0,1215.0,71.2,6.6,6.1,13.3,3,Creative Playmakers
+Christian Griezmann,32,Nigeria,Brighton,English Premier League,Midfielder,63.1,1.0,4.0,2221.0,89.6,79.0,83.0,10.3,1,Ball Winners
+Kylian Mbappé,18,Germany,Real Betis,La Liga,Defender,401.9,1.0,7.0,2292.0,78.8,74.4,49.5,47.5,1,Ball Winners
+Harry Lukaku,22,Croatia,Brighton,English Premier League,Winger,97.5,1.0,2.0,536.0,84.5,3.9,4.3,23.3,4,Defensive Anchors
+Federico Min-son,28,Poland,Juventus,Serie A,Forward,197.4,10.0,3.0,1725.0,74.9,6.8,5.5,35.9,3,Creative Playmakers
+Phil Fernandes,18,Cameroon,Tottenham,English Premier League,Winger,606.2,8.0,15.0,3300.0,81.8,25.5,7.3,103.5,0,Dynamic Wingers
+Casemiro Rice,29,Germany,Man City,English Premier League,Forward,63.0,21.0,5.0,2664.0,76.6,8.0,11.4,23.3,2,Clinical Finishers
+Khvicha Hernández,20,Uruguay,Frankfurt,Bundesliga,Midfielder,305.3,5.0,11.0,3302.0,84.8,87.8,37.1,56.0,1,Ball Winners
+Jan Szoboszlai,21,Morocco,Leverkusen,Bundesliga,Winger,451.2,12.0,8.0,2588.0,82.8,28.6,13.7,55.9,0,Dynamic Wingers
+Gavi Saliba,30,Ireland,Nice,Ligue 1,Defender,70.2,0.0,0.0,2313.0,89.2,76.1,91.6,9.8,1,Ball Winners
+Florian Musiala,35,Wales,Aston Villa,English Premier League,Midfielder,36.3,0.0,2.0,1712.0,87.1,76.8,44.6,26.7,1,Ball Winners
+Robert Alexander-Arnold,34,Poland,Napoli,Serie A,Defender,4.2,0.0,2.0,565.0,77.4,13.6,15.0,8.5,3,Creative Playmakers
+Rodri Modrić,32,Portugal,Real Sociedad,La Liga,Midfielder,10.1,0.0,0.0,625.0,88.6,20.3,20.8,6.2,4,Defensive Anchors
+Marcus Díaz,29,Scotland,Frankfurt,Bundesliga,Midfielder,85.7,3.0,14.0,2339.0,91.9,32.5,30.8,37.8,0,Dynamic Wingers
+Jamal Kudus,19,Argentina,Chelsea,English Premier League,Defender,232.2,2.0,3.0,1457.0,79.9,49.4,22.5,26.9,4,Defensive Anchors
+Teun Frimpong,29,South Korea,Brighton,English Premier League,Midfielder,213.6,3.0,3.0,3299.0,84.4,156.6,105.6,20.7,1,Ball Winners
+Jan Kulusevski,19,Belgium,PSG,Ligue 1,Defender,96.5,1.0,4.0,1271.0,82.7,30.7,24.1,30.5,4,Defensive Anchors
+Phil Maddison,28,Netherlands,Man City,English Premier League,Defender,398.3,2.0,4.0,2172.0,80.5,55.7,58.8,33.2,1,Ball Winners
+Federico Rice,26,Italy,Bologna,Serie A,Defender,422.9,2.0,1.0,2888.0,83.5,103.0,111.0,13.1,1,Ball Winners
+Kylian Dias,28,France,Bayern Munich,Bundesliga,Forward,352.1,19.0,6.0,2463.0,79.5,16.8,2.4,30.4,2,Clinical Finishers
+Alejandro ter Stegen,24,Morocco,Atalanta,Serie A,Midfielder,736.3,9.0,8.0,3322.0,87.8,80.6,55.5,56.3,1,Ball Winners
+Diogo Saka,35,Germany,Leverkusen,Bundesliga,Forward,8.5,12.0,2.0,1756.0,73.4,6.8,3.5,28.1,3,Creative Playmakers
+Eduardo Grealish,34,Wales,Rennes,Ligue 1,Winger,42.3,9.0,5.0,1926.0,83.0,9.2,12.3,56.0,0,Dynamic Wingers
+Dušan Saliba,21,Croatia,Lyon,Ligue 1,Defender,93.9,1.0,2.0,812.0,83.0,27.6,21.7,13.6,4,Defensive Anchors
+Jude Martínez,31,Senegal,Juventus,Serie A,Midfielder,65.5,3.0,2.0,2029.0,82.0,60.6,42.2,34.9,1,Ball Winners
+Darwin Garnacho,21,Senegal,Freiburg,Bundesliga,Midfielder,328.3,2.0,1.0,2602.0,88.1,94.6,79.8,29.1,1,Ball Winners
+James Garnacho,20,Germany,Aston Villa,English Premier League,Winger,948.3,8.0,10.0,3163.0,82.2,27.5,24.0,109.6,0,Dynamic Wingers
+Luis Valverde,26,Ireland,Rennes,Ligue 1,Winger,374.7,15.0,9.0,3147.0,80.6,37.3,7.3,104.7,0,Dynamic Wingers
+Leroy Kulusevski,35,Switzerland,Barcelona,La Liga,Defender,15.6,0.0,2.0,999.0,79.3,23.5,14.5,13.5,3,Creative Playmakers
+Kylian Lewandowski,21,Italy,Bayern Munich,Bundesliga,Forward,184.4,9.0,3.0,1709.0,81.4,2.5,8.0,27.9,3,Creative Playmakers
+Alexis Camavinga,19,Poland,Man City,English Premier League,Midfielder,192.0,2.0,3.0,1346.0,80.1,28.7,22.8,23.3,4,Defensive Anchors
+William Kulusevski,27,South Korea,Valencia,La Liga,Midfielder,148.8,2.0,3.0,784.0,89.1,11.3,7.1,13.5,4,Defensive Anchors
+Jack Kane,30,Belgium,West Ham,English Premier League,Defender,85.3,3.0,8.0,2597.0,80.7,50.3,50.7,32.4,1,Ball Winners
+Jamal Musiala,34,Algeria,PSG,Ligue 1,Winger,22.2,5.0,2.0,1197.0,74.1,10.1,3.3,45.1,3,Creative Playmakers
+Dušan Becker,36,Spain,Stuttgart,Bundesliga,Forward,14.5,16.0,7.0,2422.0,78.8,4.1,13.4,32.1,2,Clinical Finishers
+Thomas Díaz,29,Morocco,Fiorentina,Serie A,Winger,90.2,10.0,5.0,1585.0,77.1,8.4,4.5,43.8,3,Creative Playmakers
+William Barella,21,Scotland,Real Sociedad,La Liga,Defender,232.4,1.0,2.0,1451.0,80.9,33.2,35.6,23.1,4,Defensive Anchors
+Erling Wirtz,18,Georgia,Dortmund,Bundesliga,Winger,287.9,15.0,13.0,2552.0,80.2,21.3,10.4,59.5,0,Dynamic Wingers
+Ruben Osimhen,33,Uruguay,Inter,Serie A,Forward,142.9,24.0,7.0,3356.0,74.7,17.7,15.1,70.5,2,Clinical Finishers
+Ederson Kudus,22,Portugal,Aston Villa,English Premier League,Defender,343.2,0.0,2.0,1368.0,85.4,45.2,32.9,22.4,4,Defensive Anchors
+Pedri Garnacho,35,France,Valencia,La Liga,Defender,21.2,1.0,1.0,2448.0,86.5,64.8,99.5,5.8,1,Ball Winners
+Robert Lewandowski,35,Morocco,Valencia,La Liga,Winger,53.4,7.0,5.0,1577.0,83.2,11.2,8.4,48.4,3,Creative Playmakers
+Reece Griezmann,36,Croatia,Rennes,Ligue 1,Defender,19.9,1.0,2.0,1498.0,84.9,48.3,24.1,18.0,4,Defensive Anchors
+Bruno Alexander-Arnold,26,Cameroon,Brest,Ligue 1,Forward,126.2,11.0,2.0,1372.0,74.3,4.6,4.0,12.3,3,Creative Playmakers
+Jamal Jota,26,Germany,Stuttgart,Bundesliga,Winger,478.5,6.0,14.0,2585.0,75.2,35.2,13.3,97.2,0,Dynamic Wingers
+Robert Saliba,19,Croatia,Villarreal,La Liga,Winger,63.1,2.0,2.0,585.0,76.5,3.4,1.1,21.7,3,Creative Playmakers
+Reece Saliba,36,Spain,Nice,Ligue 1,Defender,10.8,1.0,3.0,1562.0,78.6,38.3,42.8,28.8,4,Defensive Anchors
+Phil Eriksen,28,Uruguay,Rennes,Ligue 1,Defender,170.7,1.0,1.0,1499.0,85.9,32.8,42.3,1.8,4,Defensive Anchors
+Alisson Osimhen,19,Germany,Reims,Ligue 1,Forward,41.7,4.0,0.0,541.0,77.4,6.8,0.7,5.3,3,Creative Playmakers
+Bruno Xhaka,25,Sweden,Bologna,Serie A,Defender,170.3,1.0,1.0,1412.0,87.8,39.5,58.0,5.3,4,Defensive Anchors
+Alex Oblak,32,Netherlands,Wolfsburg,Bundesliga,Winger,88.9,6.0,9.0,2511.0,80.0,21.8,17.8,105.7,0,Dynamic Wingers
+Bruno González,18,Brazil,West Ham,English Premier League,Winger,518.4,11.0,12.0,3272.0,79.2,17.2,6.2,148.1,0,Dynamic Wingers
+Alexis Saliba,21,Switzerland,Arsenal,English Premier League,Midfielder,77.6,1.0,1.0,409.0,90.0,4.0,3.7,10.2,4,Defensive Anchors
+Khvicha Lewandowski,22,Egypt,Brighton,English Premier League,Forward,232.0,12.0,3.0,1590.0,70.3,2.2,8.1,11.0,3,Creative Playmakers
+Thibaut Silva,26,Uruguay,Lille,Ligue 1,Forward,92.9,5.0,2.0,1063.0,73.7,6.0,3.7,14.9,3,Creative Playmakers
+Thibaut Tchouaméni,29,Scotland,West Ham,English Premier League,Winger,222.2,16.0,9.0,2753.0,82.0,9.9,8.7,90.8,0,Dynamic Wingers
+Antoine Páez,26,Wales,Real Madrid,La Liga,Winger,81.5,2.0,1.0,413.0,79.1,1.5,1.5,13.1,3,Creative Playmakers
+Ruben Koopmeiners,19,Ivory Coast,Atletico Madrid,La Liga,Midfielder,157.8,2.0,1.0,896.0,84.0,16.5,18.5,16.8,4,Defensive Anchors
+Gianluigi Lukaku,32,Uruguay,Bayern Munich,Bundesliga,Defender,68.0,2.0,4.0,1826.0,79.5,33.7,52.6,29.9,4,Defensive Anchors
+Jeremie Rashford,22,South Korea,Monaco,Ligue 1,Midfielder,119.2,3.0,4.0,1142.0,93.0,20.2,7.7,19.8,4,Defensive Anchors
+Marcus Wirtz,22,Ireland,Milan,Serie A,Midfielder,246.9,6.0,12.0,2148.0,84.6,29.4,24.6,62.9,0,Dynamic Wingers
+Federico Silva,18,Poland,West Ham,English Premier League,Winger,413.7,8.0,4.0,1409.0,79.1,16.3,4.0,46.5,3,Creative Playmakers
+Bruno Dybala,24,Spain,Reims,Ligue 1,Midfielder,334.3,5.0,15.0,3250.0,84.4,41.5,39.3,94.0,0,Dynamic Wingers
+Romelu Foden,36,Norway,Leipzig,Bundesliga,Winger,20.7,3.0,4.0,881.0,79.7,7.9,3.5,31.3,3,Creative Playmakers
+Bernardo Grealish,23,Nigeria,Wolfsburg,Bundesliga,Defender,223.2,1.0,0.0,1676.0,90.3,45.5,33.9,9.0,4,Defensive Anchors
+Rafael James,21,Italy,Lille,Ligue 1,Winger,167.2,6.0,4.0,1390.0,79.7,9.0,11.5,32.0,3,Creative Playmakers
+Mohamed Eriksen,26,England,Napoli,Serie A,Winger,250.6,8.0,7.0,1537.0,83.6,6.7,12.7,42.8,3,Creative Playmakers
+Paulo Foden,24,Senegal,Sevilla,La Liga,Midfielder,194.1,0.0,1.0,695.0,87.1,28.7,25.3,10.8,4,Defensive Anchors
+Declan Valverde,26,Germany,Leverkusen,Bundesliga,Winger,101.5,3.0,2.0,673.0,82.4,4.6,5.4,20.1,3,Creative Playmakers
+William Becker,32,France,Bayern Munich,Bundesliga,Defender,76.6,0.0,1.0,2090.0,90.8,48.6,78.7,10.1,1,Ball Winners
+Declan Moraes,34,Belgium,Athletic Club,La Liga,Forward,2.7,3.0,1.0,538.0,76.3,2.0,2.3,3.8,3,Creative Playmakers
+Dejan Højlund,21,France,Valencia,La Liga,Winger,322.0,11.0,8.0,3296.0,82.3,35.4,19.1,70.6,0,Dynamic Wingers
+Thomas Kvaratskhelia,34,Poland,Newcastle,English Premier League,Forward,25.2,21.0,2.0,2715.0,71.4,13.4,3.7,65.3,2,Clinical Finishers
+Rafael Kudus,19,Spain,Aston Villa,English Premier League,Forward,276.4,8.0,5.0,1984.0,80.8,6.8,8.9,12.2,3,Creative Playmakers
+Declan Lewandowski,23,Senegal,Lens,Ligue 1,Defender,154.4,0.0,1.0,1137.0,85.1,36.6,31.4,1.8,4,Defensive Anchors
+Marc-André Becker,29,Nigeria,Liverpool,English Premier League,Forward,150.4,28.0,7.0,3005.0,82.0,7.9,16.1,24.8,2,Clinical Finishers
+Reece Kvaratskhelia,20,Spain,Brest,Ligue 1,Midfielder,250.5,0.0,2.0,1972.0,86.9,52.7,64.5,32.5,1,Ball Winners
+Alisson Courtois,18,Italy,Leipzig,Bundesliga,Winger,441.6,11.0,12.0,3127.0,80.4,17.6,25.6,118.8,0,Dynamic Wingers
+Joshua Núñez,34,Netherlands,Bologna,Serie A,Forward,33.0,13.0,4.0,1698.0,76.5,12.2,8.1,28.0,2,Clinical Finishers
+Declan Vlahović,24,Japan,Leipzig,Bundesliga,Midfielder,123.4,1.0,1.0,863.0,85.5,17.5,18.6,9.7,4,Defensive Anchors
+Ederson Barella,20,Algeria,Man City,English Premier League,Midfielder,208.5,3.0,3.0,1513.0,82.4,39.7,38.6,20.5,4,Defensive Anchors
+Jack Silva,21,Georgia,Liverpool,English Premier League,Winger,257.9,7.0,4.0,1401.0,79.1,8.0,4.5,28.9,3,Creative Playmakers
+Marc-André De Bruyne,34,Nigeria,Real Madrid,La Liga,Winger,46.3,13.0,10.0,2623.0,76.8,29.6,6.6,90.0,0,Dynamic Wingers
+Declan Leão,32,Ireland,Stuttgart,Bundesliga,Forward,26.8,11.0,2.0,2179.0,76.2,8.6,11.2,27.3,2,Clinical Finishers
+Dušan Vlahović,22,Portugal,Man City,English Premier League,Forward,245.1,15.0,1.0,1987.0,81.3,9.1,4.5,16.2,2,Clinical Finishers
+Virgil Højlund,20,Japan,Freiburg,Bundesliga,Defender,600.4,3.0,5.0,3150.0,79.4,67.9,40.9,52.7,1,Ball Winners
+Phil De Bruyne,19,England,West Ham,English Premier League,Forward,192.6,10.0,4.0,1905.0,73.3,15.2,6.4,17.3,3,Creative Playmakers
+Jan Dybala,27,Italy,Brighton,English Premier League,Forward,643.6,18.0,7.0,3090.0,78.6,26.5,16.1,63.2,2,Clinical Finishers
+Virgil Mbappé,24,Poland,Brest,Ligue 1,Forward,290.3,15.0,5.0,3262.0,76.4,4.6,5.0,69.1,2,Clinical Finishers
+Kylian Griezmann,31,Sweden,Sevilla,La Liga,Winger,81.6,5.0,10.0,2156.0,76.8,29.0,14.6,97.5,0,Dynamic Wingers
+Harry Musiala,30,Morocco,Aston Villa,English Premier League,Winger,200.0,11.0,10.0,2063.0,81.3,9.7,14.2,68.8,0,Dynamic Wingers
+Romelu Núñez,23,Cameroon,Atletico Madrid,La Liga,Defender,345.5,2.0,3.0,1607.0,80.7,35.0,44.6,26.5,4,Defensive Anchors
+Antoine Júnior,26,Spain,Man City,English Premier League,Defender,350.9,1.0,3.0,1431.0,77.7,30.3,37.5,28.9,4,Defensive Anchors
+Alexis ter Stegen,25,Egypt,Sevilla,La Liga,Winger,484.2,6.0,5.0,1748.0,82.7,12.5,14.5,74.1,0,Dynamic Wingers
+Leroy Müller,24,Nigeria,Roma,Serie A,Midfielder,401.4,2.0,1.0,2792.0,87.7,65.8,101.1,45.1,1,Ball Winners
+Rodri Müller,20,Egypt,West Ham,English Premier League,Winger,345.2,7.0,5.0,1985.0,78.5,9.4,11.6,41.9,3,Creative Playmakers
+Rasmus Saliba,20,Ireland,Real Betis,La Liga,Midfielder,243.3,1.0,2.0,1989.0,85.9,58.1,40.1,24.9,4,Defensive Anchors
+Phil Mbappé,35,Scotland,Atalanta,Serie A,Midfielder,65.7,6.0,3.0,2268.0,80.9,60.7,31.1,50.1,1,Ball Winners
+Bukayo Griezmann,33,Scotland,Valencia,La Liga,Defender,141.6,2.0,0.0,2740.0,85.9,108.2,114.8,8.5,1,Ball Winners
+Jude Haaland,25,Egypt,Lazio,Serie A,Defender,337.3,1.0,0.0,2610.0,89.9,91.2,66.3,5.4,1,Ball Winners
+Antoine Salah,21,Argentina,West Ham,English Premier League,Midfielder,161.2,2.0,4.0,1026.0,86.5,18.2,14.0,24.6,4,Defensive Anchors
+Dejan Mac Allister,21,South Korea,Fiorentina,Serie A,Forward,158.6,9.0,2.0,1500.0,75.8,2.5,8.0,14.7,3,Creative Playmakers
+Bernardo Kudus,36,Norway,Monaco,Ligue 1,Defender,11.5,1.0,6.0,1973.0,81.2,63.4,30.0,47.0,1,Ball Winners
+Alejandro Moraes,36,Cameroon,Leipzig,Bundesliga,Defender,18.7,0.0,0.0,1385.0,88.4,32.4,49.7,2.9,4,Defensive Anchors
+Bruno Barella,26,Cameroon,Brighton,English Premier League,Forward,359.9,14.0,7.0,2621.0,81.6,6.9,9.5,18.9,2,Clinical Finishers
+Mohamed Lukaku,36,Morocco,Marseille,Ligue 1,Winger,17.2,4.0,2.0,837.0,77.6,6.2,1.6,24.4,3,Creative Playmakers
+Virgil Rashford,19,Portugal,Werder Bremen,Bundesliga,Defender,136.6,1.0,0.0,1227.0,86.1,47.2,22.5,4.2,4,Defensive Anchors
+Kevin Salah,26,Egypt,Frankfurt,Bundesliga,Winger,302.3,9.0,5.0,1862.0,77.0,24.4,9.2,70.5,0,Dynamic Wingers
+Paulo Kvaratskhelia,35,Italy,Juventus,Serie A,Winger,37.2,3.0,3.0,1142.0,78.7,7.0,6.2,30.6,3,Creative Playmakers
+Thibaut Modrić,34,France,Girona,La Liga,Forward,27.4,21.0,6.0,2418.0,74.4,13.2,2.5,22.6,2,Clinical Finishers
+Leroy Courtois,32,Norway,Roma,Serie A,Winger,117.2,10.0,14.0,2767.0,80.3,24.1,6.0,89.6,0,Dynamic Wingers
+Bernardo Mac Allister,33,Switzerland,Lille,Ligue 1,Forward,14.4,21.0,6.0,2745.0,73.8,13.6,7.3,36.5,2,Clinical Finishers
+Luis Frimpong,23,Cameroon,Wolfsburg,Bundesliga,Winger,594.5,16.0,8.0,2593.0,80.6,33.3,18.4,74.6,0,Dynamic Wingers
+Phil González,21,Morocco,Frankfurt,Bundesliga,Winger,169.3,6.0,6.0,1449.0,83.8,6.7,11.0,37.1,3,Creative Playmakers
+Jan Martínez,20,Sweden,Lens,Ligue 1,Midfielder,174.7,4.0,4.0,1707.0,82.1,50.1,35.4,21.0,4,Defensive Anchors
+Jeremie Jota,36,Japan,Man United,English Premier League,Midfielder,108.8,9.0,8.0,3051.0,86.3,68.0,68.5,56.0,1,Ball Winners
+Alex Hernández,36,Croatia,Stuttgart,Bundesliga,Forward,21.9,29.0,8.0,3329.0,72.2,25.0,14.7,56.0,2,Clinical Finishers
+Dominik Griezmann,30,Japan,Lens,Ligue 1,Midfielder,47.9,2.0,2.0,863.0,81.7,15.4,22.6,20.7,4,Defensive Anchors
+Antoine Leão,19,Belgium,Lazio,Serie A,Winger,80.9,2.0,4.0,766.0,79.8,8.8,5.9,18.4,3,Creative Playmakers
+Federico Wirtz,21,Japan,Leipzig,Bundesliga,Midfielder,81.5,1.0,1.0,909.0,84.1,22.2,20.1,3.3,4,Defensive Anchors
+Alexander Müller,27,Uruguay,Brest,Ligue 1,Midfielder,454.8,1.0,4.0,2858.0,84.7,113.8,55.9,35.7,1,Ball Winners
+Mohamed Müller,19,France,Juventus,Serie A,Defender,129.5,1.0,1.0,1254.0,85.7,33.7,52.7,1.3,4,Defensive Anchors
+Robert Mbappé,19,Morocco,Leverkusen,Bundesliga,Forward,391.5,16.0,7.0,3187.0,80.0,6.8,11.6,45.2,2,Clinical Finishers
+Robert Leão,26,Sweden,Milan,Serie A,Forward,267.3,17.0,6.0,3299.0,80.5,12.7,12.4,33.6,2,Clinical Finishers
+Mohamed Rashford,29,Netherlands,Man City,English Premier League,Defender,76.4,1.0,2.0,1161.0,83.7,37.3,19.4,18.8,4,Defensive Anchors
+Aurélien Núñez,29,Uruguay,Leverkusen,Bundesliga,Midfielder,88.8,4.0,10.0,2261.0,89.7,32.55,36.3,32.8,4,Defensive Anchors
+Ederson Ødegaard,34,Poland,Aston Villa,English Premier League,Winger,73.6,5.0,8.0,1777.0,74.8,13.1,6.6,61.8,0,Dynamic Wingers
+Nicolò Maddison,36,Norway,Real Sociedad,La Liga,Winger,23.9,9.0,7.0,2341.0,80.2,11.7,9.3,103.8,0,Dynamic Wingers
+Thibaut Jota,28,Algeria,Sevilla,La Liga,Defender,511.1,4.0,11.0,3194.0,80.9,68.0,72.4,62.4,1,Ball Winners
+Joshua González,21,Denmark,Real Betis,La Liga,Forward,58.0,4.0,1.0,802.0,73.8,4.8,0.9,14.4,3,Creative Playmakers
+Alex ter Stegen,21,Denmark,Sevilla,La Liga,Defender,386.9,4.0,5.0,2705.0,83.1,51.1,50.9,64.6,1,Ball Winners
+Marc-André Silva,27,Portugal,Tottenham,English Premier League,Winger,207.6,3.0,4.0,853.0,77.5,5.5,4.7,35.8,3,Creative Playmakers
+Bernardo Foden,20,Germany,Real Sociedad,La Liga,Winger,304.3,13.0,11.0,2618.0,79.3,24.5,18.0,117.8,0,Dynamic Wingers
+Antoine Oblak,20,Japan,Inter,Serie A,Defender,74.3,0.0,2.0,681.0,85.2,24.0,10.6,7.5,4,Defensive Anchors
+Gianluigi Rashford,29,Norway,Brighton,English Premier League,Defender,108.2,2.0,1.0,2457.0,86.0,59.3,66.4,5.3,1,Ball Winners
+Declan Saka,20,Norway,Athletic Club,La Liga,Forward,54.2,5.0,1.0,601.0,71.7,0.9,1.3,5.1,3,Creative Playmakers
+Jamal Leão,29,Croatia,Wolfsburg,Bundesliga,Defender,81.8,4.0,9.0,3170.0,85.4,101.7,47.4,40.5,1,Ball Winners
+Aurélien Moraes,32,Wales,Atalanta,Serie A,Defender,45.4,1.0,3.0,1118.0,82.3,21.8,23.9,22.2,4,Defensive Anchors
+Luka Díaz,19,Uruguay,Brest,Ligue 1,Forward,226.7,20.0,7.0,2740.0,80.4,22.7,14.9,15.8,2,Clinical Finishers
+Eduardo Maddison,25,Croatia,Newcastle,English Premier League,Defender,376.5,1.0,4.0,1796.0,85.1,33.0,31.5,32.6,4,Defensive Anchors
+Alexis Leão,27,Japan,Aston Villa,English Premier League,Defender,154.7,0.0,0.0,729.0,88.5,17.2,17.0,0.5,4,Defensive Anchors
+Declan ter Stegen,27,Uruguay,Leipzig,Bundesliga,Winger,328.8,10.0,4.0,1955.0,76.1,24.9,15.1,71.3,2,Clinical Finishers
+Bruno Oblak,32,England,Leverkusen,Bundesliga,Defender,65.5,1.0,3.0,1061.0,84.1,30.5,30.4,20.0,4,Defensive Anchors
+Mohamed Szoboszlai,29,Ivory Coast,Freiburg,Bundesliga,Forward,30.4,5.0,1.0,781.0,79.3,2.1,3.1,14.7,3,Creative Playmakers
+Jan Garnacho,22,Nigeria,Reims,Ligue 1,Winger,132.8,4.0,6.0,1100.0,79.4,9.9,8.1,46.1,3,Creative Playmakers
+Dušan Dybala,33,Georgia,Hoffenheim,Bundesliga,Midfielder,9.3,2.0,2.0,817.0,91.7,9.6,5.6,14.3,4,Defensive Anchors
+Gianluigi Valverde,33,Sweden,Nice,Ligue 1,Defender,35.9,2.0,9.0,2929.0,82.6,58.0,43.4,45.9,1,Ball Winners
+Khvicha Kimmich,28,Ivory Coast,Lazio,Serie A,Defender,468.6,1.0,7.0,2690.0,77.6,87.5,58.1,52.0,1,Ball Winners
+Bernardo Ødegaard,30,Portugal,Juventus,Serie A,Defender,20.1,0.0,0.0,770.0,86.2,19.6,28.9,1.8,4,Defensive Anchors
+William Leão,23,Netherlands,Nice,Ligue 1,Winger,495.0,5.0,9.0,2406.0,77.8,37.3,17.4,97.0,0,Dynamic Wingers
+Mohamed Højlund,31,Cameroon,Girona,La Liga,Midfielder,28.9,4.0,1.0,1609.0,87.0,25.8,37.0,15.5,4,Defensive Anchors
+Victor Salah,21,Ivory Coast,Leipzig,Bundesliga,Forward,315.5,17.0,3.0,2795.0,79.0,15.4,13.6,21.7,2,Clinical Finishers
+Alexander Szoboszlai,30,Spain,Brighton,English Premier League,Midfielder,36.0,0.0,3.0,487.0,90.2,7.1,5.3,11.6,4,Defensive Anchors
+Lautaro Kulusevski,33,Denmark,Arsenal,English Premier League,Defender,21.7,0.0,1.0,411.0,83.3,7.9,9.5,7.8,4,Defensive Anchors
+Bruno Valverde,32,Belgium,Nice,Ligue 1,Midfielder,103.0,2.0,19.0,3159.0,84.8,47.7,48.7,94.6,0,Dynamic Wingers
+Teun Eriksen,18,Netherlands,West Ham,English Premier League,Midfielder,172.0,2.0,2.0,706.0,85.3,18.6,17.1,7.6,4,Defensive Anchors
+Declan Díaz,24,Germany,Rennes,Ligue 1,Forward,219.5,18.0,4.0,3297.0,72.1,16.2,14.9,59.5,2,Clinical Finishers
+Harry De Bruyne,25,Morocco,Brest,Ligue 1,Forward,125.4,8.0,2.0,954.0,74.2,2.1,4.8,13.8,3,Creative Playmakers
+Martin Barella,23,Poland,Freiburg,Bundesliga,Defender,268.1,2.0,6.0,1644.0,80.2,31.2,24.7,40.0,4,Defensive Anchors
+Christian Martínez,26,Scotland,Werder Bremen,Bundesliga,Forward,250.3,18.0,3.0,1992.0,77.0,16.5,10.1,27.9,2,Clinical Finishers
+Kevin Mbappé,31,Egypt,Athletic Club,La Liga,Winger,67.0,9.0,10.0,3204.0,74.7,21.3,23.1,139.7,0,Dynamic Wingers
+Thibaut Szoboszlai,19,Spain,Tottenham,English Premier League,Midfielder,447.1,6.0,2.0,2110.0,83.2,62.6,49.5,36.6,1,Ball Winners
+Diogo Salah,32,Algeria,Reims,Ligue 1,Midfielder,104.4,4.0,14.0,2775.0,86.2,36.0,42.1,54.0,0,Dynamic Wingers
